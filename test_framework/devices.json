@@ -1,7 +1,5 @@
 {"duration": 60,
-  "port": "5555",
   "env": "prod-d",
-  "apk": "Go90-debug.apk",
   "build_link": "http://img-dist-base03.oncue.verizon.net/download/Engineering_build/android_1.2_rc2.91012/release_test/",
   "hub1_username": "alex.como82@gmail.com",
   "hub1_password": "Aa123456",
@@ -40,5 +38,7 @@
     {"device": "Motorolla_Droid_Turbo_Black", "ip": "192.168.74.143", "id": "NBVV3L0106"},
     {"device": "Samsung_Tab4", "ip": "192.168.74.107", "id": "300421ea0d2e3100"},
     {"device": "Samsung_Galaxy_Tab4", "ip": "192.168.74.127", "id": "8bebef62"}
-  ]
+  ],
+  "port": "5555",
+  "apk": "Go90-debug.apk"
 }
