@@ -86,7 +86,7 @@ def run_1hour_video(ip, count):
     time.sleep(1)
     if video_duration == 0:
         print('%s Video duration is 0 on device %s' % (count, get_device_name(ip)))
-        # Connection().get_screenshot(ip, '5555')
+        get_screenshot(ip, '5555')
     else:
         if video_duration <= config['duration']*60-360:
             for i in range((config['duration']*60-360) / video_duration):
@@ -138,6 +138,7 @@ def soak(ip, count):
     build = Connection().get_package_version(ip, port)
     device = get_device_name(ip)
     log_directory = Folders().folders_creation(build, device)
+    soak.log_directory=log_directory
     get_device_logs(ip, port, log_directory,  device, count)
     time.sleep(60)
     Connection().pull_log(log_directory, ip, port, device)
@@ -304,6 +305,15 @@ def download_apk():
     curl = 'curl -s -O ' + config['build_link'] + config['apk']
     os.system(curl)
     print 'APK V.%s DOWNLOADED' % curl[87:113]
+def get_screenshot(ip, port):
+    namescreen = '/sdcard/%s_%s.png' % (get_device_name(ip), time.strftime("%H:%M:%S"))
+    screen= 'screencap -p %s' % namescreen
+    Connection().shell_command(screen, ip, port)
+    ipp = ip + ':' + port
+    repdir='%s %s' % (namescreen, soak.log_directory)
+    Connection().adb_command('pull', ipp, repdir)
+    rmscreen = 'rm %s' % namescreen
+    Connection().shell_command(rmscreen, ip, port)
 
 with open('devices.json') as config:
     config = json.load(config)

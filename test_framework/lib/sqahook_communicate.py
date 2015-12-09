@@ -2,7 +2,7 @@ import re as regx
 import random
 import websocket
 from lib.connection import *
-
+from test_framework.soak import *
 
 class SQAHookConnection(object):
     def __init__(self, p_ip):
@@ -45,7 +45,7 @@ class SQAHookConnection(object):
         except Exception, e:
             error = ['WEB SERVICE TIMED OUT Socket Connection Issue', self.ip]
             print 'WEB SERVICE TIMED OUT Connection Time Out Device:  ' + self.ip
-            # Connection().get_screenshot(self.ip, '5555')
+            get_screenshot(self.ip, '5555')
             sys.exit(0)
         try:
             indexID = random.randint(0, 100)
@@ -56,7 +56,7 @@ class SQAHookConnection(object):
         except Exception, e:
             error = ['WEB SERVICE TIMED OUT Socket Connection Issue', self.ip]
             print 'WEB SERVICE CONNECTION FAILED ' + e.message
-            # Connection().get_screenshot(self.ip, '5555')
+            get_screenshot(self.ip, '5555')
             sys.exit(0)
         try:
             ws.close()

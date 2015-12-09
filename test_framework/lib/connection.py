@@ -197,16 +197,6 @@ class Connection:
         return self.output, self.ret_code, self.error
 
     @staticmethod
-    def get_screenshot(ip, port):
-        namescreen = '/sdcard/%s_%s.png' % (ip, time.strftime("%H:%M:%S"))
-        screen= 'screencap -p %s' % namescreen
-        Connection().shell_command(screen, ip, port)
-        ipp = ip + ':' + port
-        Connection().adb_command('pull', ipp, namescreen)
-        rmscreen = 'rm %s' % namescreen
-        Connection().shell_command(rmscreen, ip, port)
-
-    @staticmethod
     def usb_on(sensor):
         curl = "curl -s 'http://192.168.24.116/cgi-bin/runcommand.sh?100:cmd=254,%s,1' &> /dev/null" % (107 + sensor)
         os.system(curl)

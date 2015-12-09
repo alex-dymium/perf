@@ -32,6 +32,7 @@ def test_case_hub2():
     print('All devices Start Reboot')
     all_devices_id(target=reboot_device)
     print('All devices Rebooted')
+    time.sleep(10)
     all_devices_id(target=open_port_5555)
     print('All devices tcpip 5555')
     time.sleep(5)
