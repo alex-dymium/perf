@@ -72,6 +72,7 @@ def run_cut(ip, user_name, password):
 def run_1hour_video(ip, count):
     # print "%s Starting 1 hour video on device %s" % (count, get_device_name(ip))
     ca = SQAHookConnection(ip)
+    time.sleep(2)
     ca.run(cmd='Command.Touch', prm={'id': 'Tab3Button'})
     time.sleep(5)
     ca.run(cmd='Command.Touch', prm={'id': 'Grid', 'index': 0})
