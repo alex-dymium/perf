@@ -53,5 +53,5 @@ def test_case_hub1():
     all_devices_ip(target=run_1hour_video)
 
 if __name__ == "__main__":
-    # test_case_hub1()
-    non_stop()
+    test_case_hub1()
+    # non_stop()
