@@ -1,0 +1,284 @@
+** 2015-12-08 16:23:47 - /storage/emulated/0/Android/data/com.verizonmedia.go90.enterprise/files/oncue/oncueapp/com.verizonmedia.go90.enterprise.log **
+
+[NWMG:5] T0x00000000b4908400 1449620627.816 platform is ANDROID
+[TPPC:5] T0x00000000b4908400 1449620627.939 TrickPlayPolicyControl() SETTING EVENT HANDLERS
+
+[PRUP:5] T0x00000000b4908400 1449620627.942 Log base path: /storage/emulated/0/Android/data/com.verizonmedia.go90.enterprise/files/oncue/logs/ Log staging path: /storage/emulated/0/Android/data/com.verizonmedia.go90.enterprise/files/oncue/archived/
+[PRUP:5] T0x00000000b4908400 1449620627.942 Log backup path: /storage/emulated/0/Android/data/com.verizonmedia.go90.enterprise/files/oncue/archived/
+
+[APPL:5] T0x00000000b4908400 1449620627.944 oncue::App(Governor-ARM)
+
+[MLMR:2] T0x00000000b4908400 1449620627.945 Error reading language file [Settings/localized.csv], No such file or directory 
+[MLMR:2] T0x00000000b4908400 1449620627.945  Failed LanguageManager::loadCacheMap[Settings/localized.csv] 
+
+[APPL:5] T0x00000000b4908400 1449620627.945 App::callback(3, f)
+[APPL:5] T0x00000000b4908400 1449620627.947 App::callback(3, f)
+[APPL:5] T0x00000000b4908400 1449620627.947 +App::validateFile(Settings/App.json)
+[APPL:5] T0x00000000b4908400 1449620627.951 -App::validateFile(Settings/App.json)
+[APPL:5] T0x00000000b4908400 1449620627.951 +App::validateFile(CACert/dev_ca_cert_bundle.pem)
+[APPL:5] T0x00000000b4908400 1449620627.953 -App::validateFile(CACert/dev_ca_cert_bundle.pem)
+[APPL:5] T0x00000000b4908400 1449620628.118 +App::validateFile(Pages/NavigationController.json)
+[APPL:5] T0x00000000b4908400 1449620628.119 -App::validateFile(Pages/NavigationController.json)
+[APPL:5] T0x00000000b4908400 1449620628.120 +App::validateFile(Pages/MobileMaster.json)
+[APPL:5] T0x00000000b4908400 1449620628.122 -App::validateFile(Pages/MobileMaster.json)
+
+[MCTL:5] T0x00000000b4908400 1449620628.160 Developer mode status is: false
+
+[DEVT:5] T0x00000000b4908400 1449620628.218 +DevToolService[0xa1978634] constructor
+[DEVT:5] T0x00000000b4908400 1449620628.219 -DevToolService[0xa1978634] constructor
+[DEVT:5] T0x000000009d9d9000 1449620628.219 DevToolService is starting...
+[DEVT:5] T0x000000009d9d9000 1449620628.222 lws_set_log_level(7, 0x9fc6393c); logLevel = 5
+[DEVT:5] T0x000000009d9d9000 1449620628.223 [lws] Initial logging level 7
+
+[DEVT:5] T0x000000009d9d9000 1449620628.223 [lws] Library version: 1.3 739c534
+
+[DEVT:5] T0x000000009d9d9000 1449620628.224 [lws] IPV6 not compiled in
+
+[DEVT:5] T0x000000009d9d9000 1449620628.224 [lws] libev support not compiled in
+
+[DEVT:5] T0x000000009d9d9000 1449620628.224 [lws]  static allocation: 4472 + (12 x 1024 fds) = 16760 bytes
+
+[DEVT:5] T0x000000009d9d9000 1449620628.225 [lws]  canonical_hostname = localhost
+
+
+[MBUM:5] T0x00000000b4908400 1449620628.225 Default SRV address: prod-a.governor.oncue.com
+[MBUM:5] T0x00000000b4908400 1449620628.225 MaestroBootupManagerBase::setSrvAddress(prod-a.governor.oncue.com)
+
+[APPL:5] T0x00000000b4908400 1449620628.229 App::enterForeground()
+
+[MOBC:5] T0x00000000b4908400 1449620628.230 MobileMasterController::onEnterForeground()
+[DEVT:5] T0x000000009d9d9000 1449620628.231 [lws]  per-conn mem: 140 + 1594 headers + protocol rx buf
+
+[DEVT:5] T0x000000009d9d9000 1449620628.231 [lws]  Compiled with OpenSSL support
+
+[DEVT:5] T0x000000009d9d9000 1449620628.232 [lws]  Using non-SSL mode
+
+
+[APPL:5] T0x00000000b4908400 1449620628.244 App::enterForeground()
+
+[MOBC:5] T0x00000000b4908400 1449620628.247 MobileMasterController::onEnterForeground()
+[APPL:5] T0x00000000b4908400 1449620628.248 +App::handleDeepLink()
+[APPL:5] T0x00000000b4908400 1449620628.248  App::handleDeepLink() Not logged in. Don't handle deep link now.
+[APPL:5] T0x00000000b4908400 1449620628.248 -App::handleDeepLink()
+
+[DEVT:5] T0x000000009d9d9000 1449620628.295 [lws]  Listening on port 7681
+
+[DEVT:5] T0x000000009d9d9000 1449620628.295 DevToolService is running...
+
+[APPL:5] T0x00000000b4908400 1449620628.302 App::updateVersionForDRM(1.2.1.release_test vs. drm: ): changed
+[APPL:5] T0x00000000b4908400 1449620628.303 updating AppVersionForDRM to 1.2.1.release_test
+
+[MLMR:2] T0x00000000b4908400 1449620628.417 Error reading language file [Settings/localized.csv], No such file or directory 
+[MLMR:2] T0x00000000b4908400 1449620628.418  Failed LanguageManager::loadCacheMap[Settings/localized.csv] 
+
+[MOBC:5] T0x00000000b4908400 1449620628.513 in notifyValueChanged, pushDeviceToken: 
+
+[NTPI:5] T0x00000000b6fefbec 1449620630.700 timeOffsetMilliseconds: 468
+[NTPI:5] T0x00000000b6fefbec 1449620630.312 timeOffsetMilliseconds: 472
+
+[RSCI:3] T0x000000009e549d80 1449620630.318 Missing retina resource scrubberLeftCap@2x.png
+[RSCI:3] T0x000000009e549d80 1449620630.321 Missing retina resource scrubberRightCap@2x.png
+[RSCI:3] T0x000000009e549d80 1449620630.323 Missing retina resource scrubberTopCap@2x.png
+[RSCI:3] T0x000000009e549d80 1449620630.324 Missing retina resource scrubberBottomCap@2x.png
+
+[NCTL:5] T0x00000000b4908400 1449620630.349 NavigationController::navigate(/MobileStartup)
+
+[APPL:5] T0x00000000b4908400 1449620630.352 +App::validateFile(Pages/MobileStartup.json)
+[APPL:5] T0x00000000b4908400 1449620630.354 -App::validateFile(Pages/MobileStartup.json)
+
+[SRVL:5] T0x000000009d9d9280 1449620630.420 +doSrvLookup(_https._tcp.prod-a.governor.oncue.com)
+
+[URLI:5] T0x000000009d9d9280 1449620630.618  URL validated: 'https://improd.governor.oncue.com:9444/' (from 'https://improd.governor.oncue.com:9444')
+
+[MSUC:5] T0x000000009d9d9280 1449620630.619  MaestroDispatcher initialized: url=https://improd.governor.oncue.com:9444/; regToken=<redacted>
+
+[SRVL:5] T0x000000009d9d9280 1449620630.619 -doSrvLookup(_https._tcp.prod-a.governor.oncue.com)
+
+[CURL:5] T0x000000009d9d9500 1449620630.635 curl "https://improd.governor.oncue.com:9444/v1/metadata/globalSettings" --cacert /data/data/com.verizonmedia.go90.enterprise/files/CACert/dev_ca_cert_bundle.pem --compressed -H 'Content-Type: application/json; charset=utf-8' -H 'User-Agent: go90/1.2.1.release_test by Verizon Media LLC; SM-T337V; Android 5.1.1; Mozilla/5.0 (Linux; Android 5.1.1; SM-T337V Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/46.0.2490.76 Safari/537.36' -H '<redacted>'
+[CURL:5] T0x000000009d9d9500 1449620631.343 curl_easy_perform() result = 0 (No error); response code = 200
+
+[SWTB:5] T0x000000009d9d9500 1449620631.344 response: {
+  "v1EnableNFLRegistration":true,
+  "EmailBtnURL":{
+    "":"http://liveimages-edgecast.cdn.oncue.com/bootup/images/btn_email.png",
+    "2x":"http://liveimages-edgecast.cdn.oncue.com/bootup/images/btn_email%402x.png",
+    "3x":"http://liveimages-edgecast.cdn.oncue.com/bootup/images/btn_email%403x.png"
+  },
+  "CheckPlayGrants":true,
+  "MobileEnableDAI":true,
+  "ShowLTEBadge":true,
+  "MaxBitrate":1,
+  "ShareAddress":"https://prod.oncue.com/m",
+  "ShowFpsCounter":false,
+  "EnableShareSheet":true,
+  "EnableExternalScreens":false,
+  "FeedbackUrl":"https://support.go90.com/feedback",
+  "BlockContentIfJailBroken":false,
+  "MaxClockOffsetSeconds":60,
+  "PrivacyUrl":"http://www.verizon.com/about/privacy/go90/",
+  "EnableClipEditing":true,
+  "FixedKeyChannels":["46371a70b2cf3953b12b3e0bf8a83ea2","54893d4f86983518bf36cf89c3ff8403","aece7427523c36e8a53cb483337b21bf","373175b11bd630a9930ac190c6bf478c"],
+  "GenderItems":[{
+    "Label":"Female",
+    "Id":"female"
+  },{
+    "Label":"Male",
+    "Id":"male"
+  },{
+    "Label":"I'd rather not say",
+    "Id":"unspecified"
+  },{
+    "Label":"Enter Custom",
+    "Id":"custom"
+  }],
+  "inUSCheck":"http://wac.a1d4.edgecastcdn.net/00A1D4/geo_check/geo.txt",
+  "MaxBitrateGlobalSettings":{
+    "phone":{
+      "wifi":{
+        "displayName":"Wi-Fi",
+        "default":"phone-wifi-0",
+        "bitrates":[{
+          "id":"phone-wifi-0",
+          "Label":"Default",
+          "Mbps":1
+        }]
+      },
+      "cellular":{
+        "displayName":"Cellular",
+        "default":"phone-cellular-3",
+        "bitrates":[{
+          "id":"phone-cellular-3",
+          "Label":"Default",
+          "Mbps":1
+        }]
+      }
+    },
+    "tablet":{
+      "wifi":{
+        "displayName":"Wi-Fi",
+        "default":"tablet-wifi-0",
+        "bitrates":[{
+          "id":"tablet-wifi-0",
+          "Label":"Default",
+          "Mbps":1
+        }]
+      },
+      "cellular":{
+        "displayName":"Cellular",
+        "default":"tablet-cellular-3",
+        "bitrates":[{
+          "id":"tablet-cellular-3",
+          "Label":"Default",
+          "Mbps":1
+        }]
+      }
+    }
+  },
+  "UplynkUserId":"98ac1613c7624a8387596b5d5e441064",
+  "checkLiveChannels":["8c1b2ce11e0144ae80207516415c83bc","09ec427beee843cab12f0214442e8618","09ec427beee843cab12f0214442e8618"],
+  "StartupFlowAssetsUrl":"http://71.96.94.102/sanjay/prod/",
+  "DisableAutoStandby":false,
+  "StartupFlowAssetsUrlCDN":"${CDN_Image}/db_photos/firstRun/",
+  "BlockContentIfRooted":false,
+  "FirstUseBkURL":{
+    "":"http://liveimages-edgecast.cdn.oncue.com/bootup/images/BG_FirstUse_NoLogo.png",
+    "2x":"http://liveimages-edgecast.cdn.oncue.com/bootup/images/BG_FirstUse_NoLogo%402x.png",
+    "3x":"http://liveimages-edgecast.cdn.oncue.com/bootup/images/BG_FirstUse_NoLogo%403x.png"
+  },
+  "DataPromotionHelpUrl":"https://support.go90.com/?la=yes&q=data%20promo#!article/go90-Data-Promotion-FAQ",
+  "ShowLogin":false,
+  "v1MaxBitrateGlobalSettings":{
+    "phone":{
+      "wifi":{
+        "displayName":"Wi-Fi",
+        "default":"phone-wifi-0",
+        "bitrates":[{
+          "id":"phone-wifi-0",
+          "Label":"Best Quality (up to 1½ GB/Hr)",
+          "Mbps":3.3
+        },{
+          "id":"phone-wifi-1",
+          "Label":"Excellent (up to 1 GB/Hr)",
+          "Mbps":2.0
+        },{
+          "id":"phone-wifi-2",
+          "Label":"Data Saver (up to ½ GB/Hr)",
+          "Mbps":1.1
+        }]
+      },
+      "cellular":{
+        "displayName":"Cellular",
+        "default":"phone-cellular-3",
+        "bitrates":[{
+          "id":"phone-cellular-1",
+          "Label":"Best Quality (up to 1½ GB/Hr)",
+          "Mbps":3.3
+        },{
+          "id":"phone-cellular-2",
+          "Label":"Good (up to ⅔ GB/Hr)",
+          "Mbps":1.5
+        },{
+          "id":"phone-cellular-3",
+          "Label":"Data Saver (up to ⅓ GB/Hr)",
+          "Mbps":0.75
+        }]
+      }
+    },
+    "tablet":{
+      "wifi":{
+        "displayName":"Wi-Fi",
+        "default":"tablet-wifi-0",
+        "bitrates":[{
+          "id":"tablet-wifi-0",
+          "Label":"Best Quality (up to 1½ GB/Hr)",
+          "Mbps":3.3
+        },{
+          "id":"tablet-wifi-1",
+          "Label":"Excellent (up to 1 GB/Hr)",
+          "Mbps":2.0
+        },{
+          "id":"tablet-wifi-2",
+          "Label":"Data Saver (up to ½ GB/Hr)",
+          "Mbps":1.1
+        }]
+      },
+      "cellular":{
+        "displayName":"Cellular",
+        "default":"tablet-cellular-3",
+        "bitrates":[{
+          "id":"tablet-cellular-1",
+          "Label":"Best Quality (up to 1½ GB/Hr)",
+          "Mbps":3.3
+        },{
+          "id":"phone-cellular-2",
+          "Label":"Good (up to ⅔ GB/Hr)",
+          "Mbps":1.5
+        },{
+          "id":"phone-cellular-3",
+          "Label":"Data Saver (up to ⅓ GB/Hr)",
+          "Mbps":0.75
+        }]
+      }
+    }
+  },
+  "TosEulaUrl":"https://www.go90.com/about/custagreement",
+  "NFLLocationServicesVideoId":"va_astid:76cab31d670048458d9e025ce88f8794,tid:747dd0d50a1f477492d67dc9840cb9f2,vid:76cab31d670048458d9e025ce88f8794",
+  "HelpUrl":"https://support.go90.com/?app=true",
+  "nflChannels":["cfab6009a3834d8db7f38424a34b8b73","c5b5c100629d46fc8bb968ab383a4496","9715ccaef2a44e309c5ea7b9f051082f","ea3e6b715135428ebc8b5ed161ee0407","b1c7a91cb96f41b49669d1e24eb6c89c","3a006c3ed6e0451c83c0350ef2de6feb","1af2be32ed874d45b920f664961d82d7","5db91f39cb6c4427835267989a0adb7a","e7b8834bdb954f83948023bf93b93257","5883a823b687449b9ba138c2b8273281","d1cd5e342dbc47d4a0a6e7cec81cff28","93884029c8f9406d8c193db4e9a06f56","e1834e15a3f446bc8927239e5d8183a0","f0b19e687fb544d9898259de616fe985","03b13ba84e864187a5de4396b10b11c7","7fb2f7184e1c4bef9ef747727267695b","688338f1413a4e1293a65ebf796e16bd","03ea3af923fc4b19a858ba5b39c33cb1"],
+  "appRemoteUX":"http://s3.amazonaws.com/improd-image-pipeline/remoteUX/json/go90RemoteUX_v1.0.json"
+}
+
+[CURL:5] T0x000000009da83300 1449620631.352 curl "http://wac.a1d4.edgecastcdn.net/00A1D4/geo_check/geo.txt" --cacert /data/data/com.verizonmedia.go90.enterprise/files/CACert/dev_ca_cert_bundle.pem --compressed -H 'User-Agent: go90/1.2.1.release_test by Verizon Media LLC; SM-T337V; Android 5.1.1; Mozilla/5.0 (Linux; Android 5.1.1; SM-T337V Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/46.0.2490.76 Safari/537.36'
+[CURL:5] T0x000000009da83300 1449620631.397 curl_easy_perform() result = 0 (No error); response code = 200
+
+[NCTL:5] T0x00000000b4908400 1449620631.410 NavigationController::navigate(/FirstUse)
+
+[APPL:5] T0x00000000b4908400 1449620631.410 +App::validateFile(Pages/FirstUse.json)
+[APPL:5] T0x00000000b4908400 1449620631.412 -App::validateFile(Pages/FirstUse.json)
+
+[NTPI:5] T0x00000000b6fefbec 1449620631.431 timeOffsetMilliseconds: 470
+
+[PRUP:5] T0x00000000b4908400 1449620658.038 Archived path: /storage/emulated/0/Android/data/com.verizonmedia.go90.enterprise/files/oncue/archived/
+
+[SWTB:5] T0x000000009c731d80 1449620661.480 Switchboard::postBIEvents_buffer(oncue.ws.client.ui-UIEvent-0.0.4, 1)
+[SWTB:5] T0x000000009c731d80 1449621194.538 Switchboard::postBIEvents_buffer(oncue.ws.client.clientaudit-ClientAuditEvent-0.0.3, 1)

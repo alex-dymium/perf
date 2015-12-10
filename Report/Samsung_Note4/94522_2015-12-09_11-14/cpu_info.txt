@@ -1,0 +1,400 @@
+---2015-12-09 11:08:21
+
+
+
+User 0%, System 1%, IOW 0%, IRQ 0%
+User 23 + Nice 1 + Sys 36 + Idle 2454 + IOW 0 + IRQ 0 + SIRQ 1 = 2515
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 3445  0   0% S   153 2156760K 153656K  fg system   system_server
+ 3729  0   0% S    52 1987340K 165412K  fg u0_a23   com.android.systemui
+11148  7   0% R     1  11040K   1356K  fg shell    top
+ 2863  3   0% S    36 105208K  20172K  fg system   /system/bin/surfaceflinger
+10420  0   0% S     1      0K      0K  fg root     kworker/0:3
+  502  2   0% S     1      0K      0K  fg root     spi0
+ 1665  0   0% S     1      0K      0K  fg root     decon_power_thr
+ 1255  0   0% S     1      0K      0K  fg root     kworker/u16:2
+ 5639  1   0% S     1      0K      0K  fg root     irq/608-sec-nfc
+ 1367  0   0% S     1      0K      0K  fg root     kworker/u16:3
+Time pass: 3 sec
+
+---2015-12-09 11:08:21
+
+
+
+User 0%, System 1%, IOW 0%, IRQ 0%
+User 12 + Nice 0 + Sys 30 + Idle 2443 + IOW 0 + IRQ 0 + SIRQ 0 = 2485
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+11160  5   0% R     1  11040K   1356K  fg shell    top
+ 3729  1   0% S    52 1987340K 165396K  fg u0_a23   com.android.systemui
+ 3445  3   0% S   153 2156800K 153656K  fg system   system_server
+ 2863  0   0% S    36 105208K  20140K  fg system   /system/bin/surfaceflinger
+10420  0   0% R     1      0K      0K  fg root     kworker/0:3
+  502  1   0% S     1      0K      0K  fg root     spi0
+ 1670  1   0% S     1      0K      0K  fg root     s3c-fb-update
+ 3682  0   0% S     1  16928K   6352K  fg wifi     /system/bin/wpa_supplicant
+ 1294  1   0% S     1      0K      0K  fg root     kworker/u17:0
+ 4475  3   0% S    43 2118520K  93252K  bg u0_a15   com.google.android.gms
+Time pass: 6 sec
+
+---2015-12-09 11:08:21
+
+
+
+User 0%, System 1%, IOW 0%, IRQ 0%
+User 20 + Nice 2 + Sys 25 + Idle 2432 + IOW 0 + IRQ 0 + SIRQ 0 = 2479
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 3729  0   0% S    52 1987532K 165508K  fg u0_a23   com.android.systemui
+ 3445  3   0% S   153 2156920K 153888K  fg system   system_server
+11172  6   0% R     1  11040K   1356K  fg shell    top
+ 2863  2   0% S    36 105208K  20308K  fg system   /system/bin/surfaceflinger
+10420  0   0% S     1      0K      0K  fg root     kworker/0:3
+  502  3   0% S     1      0K      0K  fg root     spi0
+ 1665  1   0% S     1      0K      0K  fg root     decon_power_thr
+   50  2   0% S     1      0K      0K  fg root     kworker/u16:1
+ 7280  1   0% S    13 1866880K  62980K  bg u0_a44   com.sec.spp.push
+ 1255  3   0% S     1      0K      0K  fg root     kworker/u16:2
+Time pass: 10 sec
+
+---2015-12-09 11:08:21
+
+
+
+User 0%, System 0%, IOW 0%, IRQ 0%
+User 11 + Nice 0 + Sys 21 + Idle 2447 + IOW 0 + IRQ 0 + SIRQ 0 = 2479
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+11184  4   0% R     1  11040K   1356K  fg shell    top
+ 3445  3   0% S   153 2156980K 153888K  fg system   system_server
+ 3729  1   0% S    52 1987340K 165416K  fg u0_a23   com.android.systemui
+  502  1   0% S     1      0K      0K  fg root     spi0
+10420  0   0% S     1      0K      0K  fg root     kworker/0:3
+ 2863  2   0% S    36 105208K  20244K  fg system   /system/bin/surfaceflinger
+ 2895  2   0% S     1   8636K    208K  fg system   /system/bin/argosd
+ 1665  0   0% S     1      0K      0K  fg root     decon_power_thr
+ 1367  0   0% S     1      0K      0K  fg root     kworker/u16:3
+ 1255  0   0% S     1      0K      0K  fg root     kworker/u16:2
+Time pass: 14 sec
+
+---2015-12-09 11:08:21
+
+
+
+User 0%, System 0%, IOW 0%, IRQ 0%
+User 13 + Nice 0 + Sys 24 + Idle 2445 + IOW 0 + IRQ 0 + SIRQ 0 = 2482
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+11196  7   0% R     1  11040K   1356K  fg shell    top
+ 3445  0   0% S   153 2157020K 153892K  fg system   system_server
+ 3729  1   0% S    52 1987340K 165376K  fg u0_a23   com.android.systemui
+  502  3   0% S     1      0K      0K  fg root     spi0
+ 2863  2   0% S    36 105208K  20212K  fg system   /system/bin/surfaceflinger
+10420  0   0% S     1      0K      0K  fg root     kworker/0:3
+    8  1   0% S     1      0K      0K  fg root     rcu_preempt
+ 1665  0   0% S     1      0K      0K  fg root     decon_power_thr
+ 2895  2   0% S     1   8636K    208K  fg system   /system/bin/argosd
+ 1800  0   0% S     1      0K      0K  fg root     thread_hotplug
+Time pass: 17 sec
+
+---2015-12-09 11:08:21
+
+
+
+User 0%, System 1%, IOW 0%, IRQ 0%
+User 24 + Nice 0 + Sys 30 + Idle 2426 + IOW 0 + IRQ 0 + SIRQ 0 = 2480
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+11208  5   0% R     1  11040K   1356K  fg shell    top
+ 3729  2   0% S    52 1987532K 165564K  fg u0_a23   com.android.systemui
+ 3445  0   0% S   153 2157160K 153892K  fg system   system_server
+ 2863  2   0% S    36 105208K  20148K  fg system   /system/bin/surfaceflinger
+10420  0   0% S     1      0K      0K  fg root     kworker/0:3
+  502  1   0% S     1      0K      0K  fg root     spi0
+ 1354  0   0% S     1      0K      0K  fg root     cfinteractive0
+   50  2   0% S     1      0K      0K  fg root     kworker/u16:1
+ 1294  0   0% S     1      0K      0K  fg root     kworker/u17:0
+ 1665  0   0% S     1      0K      0K  fg root     decon_power_thr
+Time pass: 21 sec
+
+---2015-12-09 11:08:21
+
+
+
+User 17%, System 10%, IOW 1%, IRQ 0%
+User 416 + Nice 17 + Sys 257 + Idle 1715 + IOW 30 + IRQ 0 + SIRQ 9 = 2444
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+11224  7  17% S    81 2180684K 232076K  fg u0_a332  com.verizonmedia.go90.enterprise
+ 3445  6   2% S   153 2186508K 155588K  fg system   system_server
+ 2863  6   1% S    36 106504K  21716K  fg system   /system/bin/surfaceflinger
+  836  5   1% S     1      0K      0K  fg root     kswapd0
+  482  5   0% S     1      0K      0K  fg root     ion_noncontig_h
+ 3729  6   0% S    52 1993756K 167196K  fg u0_a23   com.android.systemui
+11246  5   0% R     1  11040K   1356K  fg shell    top
+ 1493  0   0% S     1      0K      0K  fg root     mmcqd/0
+ 2900  5   0% S     6  35580K   8904K  fg gps      /system/bin/gpsd
+10420  0   0% S     1      0K      0K  fg root     kworker/0:3
+Time pass: 24 sec
+
+---2015-12-09 11:08:21
+
+
+
+User 4%, System 5%, IOW 0%, IRQ 0%
+User 101 + Nice 4 + Sys 146 + Idle 2209 + IOW 1 + IRQ 0 + SIRQ 3 = 2464
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 3445  3   2% S   152 2180196K 154300K  fg system   system_server
+  502  1   2% S     1      0K      0K  fg root     spi0
+ 2900  3   1% R     6  35580K   8912K  fg gps      /system/bin/gpsd
+11224  2   1% S    80 2112128K 241592K  fg u0_a332  com.verizonmedia.go90.enterprise
+ 4322  2   0% S    47 2001732K  99732K  fg u0_a15   com.google.android.gms.persistent
+11370  4   0% R     1  11040K   1356K  fg shell    top
+ 4475  4   0% S    43 2118500K  92724K  bg u0_a15   com.google.android.gms
+ 1294  0   0% S     1      0K      0K  fg root     kworker/u17:0
+   50  1   0% S     1      0K      0K  fg root     kworker/u16:1
+10420  0   0% S     1      0K      0K  fg root     kworker/0:3
+Time pass: 29 sec
+
+---2015-12-09 11:08:21
+
+
+
+User 3%, System 5%, IOW 0%, IRQ 0%
+User 77 + Nice 8 + Sys 147 + Idle 2219 + IOW 1 + IRQ 0 + SIRQ 2 = 2454
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 3445  2   2% S   152 2180396K 153592K  fg system   system_server
+  502  3   1% S     1      0K      0K  fg root     spi0
+ 2900  3   1% S     6  35580K   8912K  fg gps      /system/bin/gpsd
+11224  2   1% S    80 2112128K 241592K  fg u0_a332  com.verizonmedia.go90.enterprise
+11383  7   0% R     1  11040K   1356K  fg shell    top
+ 3729  0   0% S    52 1993940K 167420K  fg u0_a23   com.android.systemui
+10420  0   0% S     1      0K      0K  fg root     kworker/0:3
+   50  1   0% S     1      0K      0K  fg root     kworker/u16:1
+ 2968  2   0% S     1      0K      0K  fg root     kworker/u17:1
+ 1294  0   0% S     1      0K      0K  fg root     kworker/u17:0
+Time pass: 33 sec
+
+---2015-12-09 11:08:21
+
+
+
+User 3%, System 4%, IOW 0%, IRQ 0%
+User 77 + Nice 3 + Sys 120 + Idle 2244 + IOW 1 + IRQ 0 + SIRQ 3 = 2448
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 3445  3   2% S   152 2180436K 153596K  fg system   system_server
+  502  2   2% S     1      0K      0K  fg root     spi0
+ 2900  3   1% S     6  35580K   8912K  fg gps      /system/bin/gpsd
+11224  2   1% S    80 2112128K 241592K  fg u0_a332  com.verizonmedia.go90.enterprise
+11411  5   0% R     1  11040K   1356K  fg shell    top
+ 2968  0   0% S     1      0K      0K  fg root     kworker/u17:1
+   50  3   0% S     1      0K      0K  fg root     kworker/u16:1
+10420  0   0% S     1      0K      0K  fg root     kworker/0:3
+ 2899  2   0% S     1  13244K   2580K  fg gps      /system/bin/lhd
+ 1294  2   0% S     1      0K      0K  fg root     kworker/u17:0
+Time pass: 36 sec
+
+---2015-12-09 11:08:21
+
+
+
+User 7%, System 6%, IOW 0%, IRQ 0%
+User 182 + Nice 4 + Sys 155 + Idle 2092 + IOW 7 + IRQ 0 + SIRQ 6 = 2446
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+11224  0   4% R    86 2133792K 258832K  fg u0_a332  com.verizonmedia.go90.enterprise
+ 3445  3   2% S   152 2186444K 154852K  fg system   system_server
+ 4402  2   1% S    33 1968956K 126916K  fg system   com.sec.android.inputmethod
+  502  2   1% S     1      0K      0K  fg root     spi0
+ 2900  0   0% S     6  35580K   8912K  fg gps      /system/bin/gpsd
+ 2863  3   0% S    36 105344K  21544K  fg system   /system/bin/surfaceflinger
+11423  4   0% R     1  11040K   1356K  fg shell    top
+ 1294  0   0% S     1      0K      0K  fg root     kworker/u17:0
+10420  0   0% D     1      0K      0K  fg root     kworker/0:3
+ 3729  7   0% S    52 1990652K 167300K  fg u0_a23   com.android.systemui
+Time pass: 40 sec
+
+---2015-12-09 11:08:21
+
+
+
+User 5%, System 6%, IOW 0%, IRQ 0%
+User 122 + Nice 1 + Sys 150 + Idle 2170 + IOW 0 + IRQ 0 + SIRQ 3 = 2446
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 3445  0   2% S   153 2187560K 154900K  fg system   system_server
+ 4402  6   2% S    32 1985800K 145448K  fg system   com.sec.android.inputmethod
+11224  3   2% S    85 2136968K 259384K  fg u0_a332  com.verizonmedia.go90.enterprise
+  502  2   1% S     1      0K      0K  fg root     spi0
+ 2900  2   1% S     6  35580K   8868K  fg gps      /system/bin/gpsd
+ 2863  2   0% S    36 105208K  21448K  fg system   /system/bin/surfaceflinger
+11473  5   0% R     1  11040K   1356K  fg shell    top
+10420  0   0% S     1      0K      0K  fg root     kworker/0:3
+   50  3   0% S     1      0K      0K  fg root     kworker/u16:1
+ 1294  1   0% S     1      0K      0K  fg root     kworker/u17:0
+Time pass: 44 sec
+
+---2015-12-09 11:08:21
+
+
+
+User 6%, System 7%, IOW 0%, IRQ 0%
+User 161 + Nice 3 + Sys 187 + Idle 2100 + IOW 1 + IRQ 0 + SIRQ 1 = 2453
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+11224  3   6% R    85 2135272K 266264K  fg u0_a332  com.verizonmedia.go90.enterprise
+ 2863  0   2% S    36 105208K  21416K  fg system   /system/bin/surfaceflinger
+ 3445  2   1% S   152 2186584K 154956K  fg system   system_server
+  502  3   1% S     1      0K      0K  fg root     spi0
+ 2900  1   0% S     6  35580K   8868K  fg gps      /system/bin/gpsd
+10420  0   0% S     1      0K      0K  fg root     kworker/0:3
+11499  7   0% R     1  11040K   1356K  fg shell    top
+ 2860  1   0% S     1  10876K   1268K  fg system   /system/bin/servicemanager
+   50  3   0% R     1      0K      0K  fg root     kworker/u16:1
+ 1354  0   0% S     1      0K      0K  fg root     cfinteractive0
+Time pass: 48 sec
+
+---2015-12-09 11:08:21
+
+
+
+User 23%, System 6%, IOW 0%, IRQ 0%
+User 564 + Nice 1 + Sys 164 + Idle 1692 + IOW 2 + IRQ 0 + SIRQ 22 = 2445
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+11224  1  23% S    91 2205812K 333748K  fg u0_a332  com.verizonmedia.go90.enterprise
+ 2863  1   1% S    36 105208K  21608K  fg system   /system/bin/surfaceflinger
+ 3445  2   1% S   152 2186724K 155156K  fg system   system_server
+  502  2   0% S     1      0K      0K  fg root     spi0
+ 2900  0   0% S     6  35580K   8876K  fg gps      /system/bin/gpsd
+11542  6   0% R     1  11040K   1356K  fg shell    top
+ 1354  0   0% S     1      0K      0K  fg root     cfinteractive0
+  500  0   0% S     1      0K      0K  fg root     kworker/0:1
+ 4402  1   0% S    32 1946152K 110572K  bg system   com.sec.android.inputmethod
+    3  0   0% S     1      0K      0K  fg root     ksoftirqd/0
+Time pass: 52 sec
+
+---2015-12-09 11:08:21
+
+
+
+User 3%, System 5%, IOW 0%, IRQ 0%
+User 75 + Nice 3 + Sys 134 + Idle 2242 + IOW 0 + IRQ 0 + SIRQ 1 = 2455
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 3445  3   2% S   152 2186764K 155176K  fg system   system_server
+  502  1   2% S     1      0K      0K  fg root     spi0
+11224  1   1% S    91 2151796K 324320K  fg u0_a332  com.verizonmedia.go90.enterprise
+ 2900  0   1% S     6  35580K   8876K  fg gps      /system/bin/gpsd
+11595  4   0% R     1  11040K   1356K  fg shell    top
+   50  2   0% S     1      0K      0K  fg root     kworker/u16:1
+ 1294  1   0% S     1      0K      0K  fg root     kworker/u17:0
+  500  0   0% S     1      0K      0K  fg root     kworker/0:1
+ 2968  1   0% S     1      0K      0K  fg root     kworker/u17:1
+ 3298  3   0% S     1      0K      0K  fg root     kworker/u16:7
+Time pass: 56 sec
+
+---2015-12-09 11:08:21
+
+
+
+User 8%, System 7%, IOW 0%, IRQ 0%
+User 212 + Nice 5 + Sys 181 + Idle 2056 + IOW 0 + IRQ 0 + SIRQ 6 = 2460
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+11224  3   7% S    91 2163812K 347648K  fg u0_a332  com.verizonmedia.go90.enterprise
+ 3445  2   2% S   152 2186804K 155264K  fg system   system_server
+  502  2   1% S     1      0K      0K  fg root     spi0
+ 2900  3   1% S     6  35580K   8876K  fg gps      /system/bin/gpsd
+ 2863  3   0% S    36 105208K  21208K  fg system   /system/bin/surfaceflinger
+ 3729  0   0% S    52 1990844K 167588K  fg u0_a23   com.android.systemui
+11608  5   0% R     1  11040K   1356K  fg shell    top
+  500  0   0% S     1      0K      0K  fg root     kworker/0:1
+   50  1   0% S     1      0K      0K  fg root     kworker/u16:1
+ 1294  0   0% S     1      0K      0K  fg root     kworker/u17:0
+Time pass: 59 sec
+
+---2015-12-09 11:08:21
+
+
+
+User 4%, System 6%, IOW 0%, IRQ 0%
+User 95 + Nice 5 + Sys 153 + Idle 2187 + IOW 2 + IRQ 0 + SIRQ 4 = 2446
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 3445  3   2% S   152 2186984K 155652K  fg system   system_server
+  502  3   2% S     1      0K      0K  fg root     spi0
+11224  2   1% S    91 2152696K 346268K  fg u0_a332  com.verizonmedia.go90.enterprise
+ 2900  2   1% S     5  34556K   8868K  fg gps      /system/bin/gpsd
+11623  5   0% R     1  11040K   1356K  fg shell    top
+   50  3   0% S     1      0K      0K  fg root     kworker/u16:1
+  500  0   0% S     1      0K      0K  fg root     kworker/0:1
+ 2968  3   0% S     1      0K      0K  fg root     kworker/u17:1
+ 2863  1   0% S    36 105208K  21144K  fg system   /system/bin/surfaceflinger
+ 4322  1   0% S    47 2002140K  99760K  fg u0_a15   com.google.android.gms.persistent
+Time pass: 63 sec
+
+---2015-12-09 11:08:21
+
+
+
+User 10%, System 5%, IOW 0%, IRQ 0%
+User 257 + Nice 2 + Sys 134 + Idle 2054 + IOW 0 + IRQ 0 + SIRQ 1 = 2448
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+11224  7  10% S    91 2125816K 371852K  fg u0_a332  com.verizonmedia.go90.enterprise
+ 2863  3   1% S    36 105720K  21956K  fg system   /system/bin/surfaceflinger
+ 3445  3   1% S   152 2187024K 155696K  fg system   system_server
+ 2900  6   0% S     5  34556K   8944K  fg gps      /system/bin/gpsd
+  502  4   0% S     1      0K      0K  fg root     spi0
+  500  0   0% S     1      0K      0K  fg root     kworker/0:1
+11637  5   0% R     1  11040K   1356K  fg shell    top
+ 3729  6   0% S    52 1995564K 168940K  fg u0_a23   com.android.systemui
+ 2899  7   0% S     1  13244K   2580K  fg gps      /system/bin/lhd
+ 2860  1   0% S     1  10876K   1268K  fg system   /system/bin/servicemanager
+Time pass: 67 sec
+
+---2015-12-09 11:08:21
+
+
+
+User 5%, System 4%, IOW 0%, IRQ 0%
+User 137 + Nice 2 + Sys 106 + Idle 2176 + IOW 0 + IRQ 0 + SIRQ 0 = 2421
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+11224  5   4% S    91 2139648K 378500K  fg u0_a332  com.verizonmedia.go90.enterprise
+ 2863  3   1% S    36 105780K  21448K  fg system   /system/bin/surfaceflinger
+ 3445  3   1% S   152 2180236K 154104K  fg system   system_server
+  502  3   0% S     1      0K      0K  fg root     spi0
+ 2900  2   0% S     5  34556K   8944K  fg gps      /system/bin/gpsd
+11652  6   0% R     1  11040K   1356K  fg shell    top
+  500  0   0% S     1      0K      0K  fg root     kworker/0:1
+ 3729  3   0% S    52 1995336K 168008K  fg u0_a23   com.android.systemui
+ 2899  2   0% S     1  13244K   2580K  fg gps      /system/bin/lhd
+ 2860  2   0% S     1  10876K   1268K  fg system   /system/bin/servicemanager
+Time pass: 70 sec
+
+---2015-12-09 11:08:21
+
+
+
+User 12%, System 12%, IOW 0%, IRQ 2%
+User 294 + Nice 1 + Sys 300 + Idle 1791 + IOW 5 + IRQ 0 + SIRQ 65 = 2456
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+11224  3  19% S   110 2208152K 399028K  fg u0_a332  com.verizonmedia.go90.enterprise
+ 2863  3   2% S    36 106012K  21696K  fg system   /system/bin/surfaceflinger
+  500  0   0% S     1      0K      0K  fg root     kworker/0:1
+    3  0   0% S     1      0K      0K  fg root     ksoftirqd/0
+11674  5   0% R     1  11040K   1356K  fg shell    top
+ 2886  3   0% S    22 207964K  25988K  fg media    /system/bin/mediaserver
+ 3445  2   0% S   152 2180276K 154368K  fg system   system_server
+  502  0   0% S     1      0K      0K  fg root     spi0
+    7  0   0% S     1      0K      0K  fg root     migration/0
+ 2900  2   0% S     5  34556K   8944K  fg gps      /system/bin/gpsd
+Time pass: 74 sec
+

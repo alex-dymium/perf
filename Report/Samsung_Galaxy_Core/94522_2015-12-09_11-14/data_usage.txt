@@ -1,0 +1,1595 @@
+---2015-12-09 11:08:21
+Time pass: 3 sec
+
+Time pass: 3 sec
+
+Time pass: 3 sec
+
+Time pass: 3 sec
+
+Time pass: 3 sec
+
+Time pass: 3 sec
+
+Time pass: 3 sec
+
+Time pass: 3 sec
+
+Time pass: 3 sec
+
+Time pass: 3 sec
+
+Time pass: 3 sec
+
+Time pass: 3 sec
+
+Time pass: 3 sec
+
+Time pass: 3 sec
+
+Time pass: 3 sec
+
+Time pass: 3 sec
+
+Time pass: 3 sec
+
+Time pass: 3 sec
+
+Time pass: 3 sec
+
+Time pass: 3 sec
+
+Time pass: 3 sec
+
+Time pass: 3 sec
+
+Time pass: 3 sec
+
+Time pass: 3 sec
+
+Time pass: 3 sec
+
+Time pass: 3 sec
+
+Time pass: 3 sec
+
+Time pass: 3 sec
+
+Time pass: 3 sec
+
+Time pass: 3 sec
+
+Time pass: 3 sec
+
+Time pass: 3 sec
+
+Time pass: 3 sec
+
+Time pass: 3 sec
+
+Time pass: 3 sec
+
+---2015-12-09 11:08:21
+Time pass: 7 sec
+
+Time pass: 7 sec
+
+Time pass: 7 sec
+
+Time pass: 7 sec
+
+Time pass: 7 sec
+
+Time pass: 7 sec
+
+Time pass: 7 sec
+
+Time pass: 7 sec
+
+Time pass: 7 sec
+
+Time pass: 7 sec
+
+Time pass: 7 sec
+
+Time pass: 7 sec
+
+Time pass: 7 sec
+
+Time pass: 7 sec
+
+Time pass: 7 sec
+
+Time pass: 7 sec
+
+Time pass: 7 sec
+
+Time pass: 7 sec
+
+Time pass: 7 sec
+
+Time pass: 7 sec
+
+Time pass: 7 sec
+
+Time pass: 7 sec
+
+Time pass: 7 sec
+
+Time pass: 7 sec
+
+Time pass: 7 sec
+
+Time pass: 7 sec
+
+Time pass: 7 sec
+
+Time pass: 7 sec
+
+Time pass: 7 sec
+
+Time pass: 7 sec
+
+Time pass: 7 sec
+
+Time pass: 7 sec
+
+Time pass: 7 sec
+
+Time pass: 7 sec
+
+Time pass: 7 sec
+
+---2015-12-09 11:08:21
+Time pass: 10 sec
+
+Time pass: 10 sec
+
+Time pass: 10 sec
+
+Time pass: 10 sec
+
+Time pass: 10 sec
+
+Time pass: 10 sec
+
+Time pass: 10 sec
+
+Time pass: 10 sec
+
+Time pass: 10 sec
+
+Time pass: 10 sec
+
+Time pass: 10 sec
+
+Time pass: 10 sec
+
+Time pass: 10 sec
+
+Time pass: 10 sec
+
+Time pass: 10 sec
+
+Time pass: 10 sec
+
+Time pass: 10 sec
+
+Time pass: 10 sec
+
+Time pass: 10 sec
+
+Time pass: 10 sec
+
+Time pass: 10 sec
+
+Time pass: 10 sec
+
+Time pass: 10 sec
+
+Time pass: 10 sec
+
+Time pass: 10 sec
+
+Time pass: 10 sec
+
+Time pass: 10 sec
+
+Time pass: 10 sec
+
+Time pass: 10 sec
+
+Time pass: 10 sec
+
+Time pass: 10 sec
+
+Time pass: 10 sec
+
+Time pass: 10 sec
+
+Time pass: 10 sec
+
+Time pass: 10 sec
+
+---2015-12-09 11:08:21
+Time pass: 14 sec
+
+Time pass: 14 sec
+
+Time pass: 14 sec
+
+Time pass: 14 sec
+
+Time pass: 14 sec
+
+Time pass: 14 sec
+
+Time pass: 14 sec
+
+Time pass: 14 sec
+
+Time pass: 14 sec
+
+Time pass: 14 sec
+
+Time pass: 14 sec
+
+Time pass: 14 sec
+
+Time pass: 14 sec
+
+Time pass: 14 sec
+
+Time pass: 14 sec
+
+Time pass: 14 sec
+
+Time pass: 14 sec
+
+Time pass: 14 sec
+
+Time pass: 14 sec
+
+Time pass: 14 sec
+
+Time pass: 14 sec
+
+Time pass: 14 sec
+
+Time pass: 14 sec
+
+Time pass: 14 sec
+
+Time pass: 14 sec
+
+Time pass: 14 sec
+
+Time pass: 14 sec
+
+Time pass: 14 sec
+
+Time pass: 14 sec
+
+Time pass: 14 sec
+
+Time pass: 14 sec
+
+Time pass: 14 sec
+
+Time pass: 14 sec
+
+Time pass: 14 sec
+
+Time pass: 14 sec
+
+---2015-12-09 11:08:21
+Time pass: 17 sec
+
+Time pass: 17 sec
+
+Time pass: 17 sec
+
+Time pass: 17 sec
+
+Time pass: 17 sec
+
+Time pass: 17 sec
+
+Time pass: 17 sec
+
+Time pass: 17 sec
+
+Time pass: 17 sec
+
+Time pass: 17 sec
+
+Time pass: 17 sec
+
+Time pass: 17 sec
+
+Time pass: 17 sec
+
+Time pass: 17 sec
+
+Time pass: 17 sec
+
+Time pass: 17 sec
+
+Time pass: 17 sec
+
+Time pass: 17 sec
+
+Time pass: 17 sec
+
+Time pass: 17 sec
+
+Time pass: 17 sec
+
+Time pass: 17 sec
+
+Time pass: 17 sec
+
+Time pass: 17 sec
+
+Time pass: 17 sec
+
+Time pass: 17 sec
+
+Time pass: 17 sec
+
+Time pass: 17 sec
+
+Time pass: 17 sec
+
+Time pass: 17 sec
+
+Time pass: 17 sec
+
+Time pass: 17 sec
+
+Time pass: 17 sec
+
+Time pass: 17 sec
+
+Time pass: 17 sec
+
+---2015-12-09 11:08:21
+Time pass: 21 sec
+
+Time pass: 21 sec
+
+Time pass: 21 sec
+
+Time pass: 21 sec
+
+Time pass: 21 sec
+
+Time pass: 21 sec
+
+Time pass: 21 sec
+
+Time pass: 21 sec
+
+Time pass: 21 sec
+
+Time pass: 21 sec
+
+Time pass: 21 sec
+
+Time pass: 21 sec
+
+Time pass: 21 sec
+
+Time pass: 21 sec
+
+Time pass: 21 sec
+
+Time pass: 21 sec
+
+Time pass: 21 sec
+
+Time pass: 21 sec
+
+Time pass: 21 sec
+
+Time pass: 21 sec
+
+Time pass: 21 sec
+
+Time pass: 21 sec
+
+Time pass: 21 sec
+
+Time pass: 21 sec
+
+Time pass: 21 sec
+
+Time pass: 21 sec
+
+Time pass: 21 sec
+
+Time pass: 21 sec
+
+Time pass: 21 sec
+
+Time pass: 21 sec
+
+Time pass: 21 sec
+
+Time pass: 21 sec
+
+Time pass: 21 sec
+
+Time pass: 21 sec
+
+Time pass: 21 sec
+
+---2015-12-09 11:08:21
+Time pass: 25 sec
+
+Time pass: 25 sec
+
+Time pass: 25 sec
+
+Time pass: 25 sec
+
+Time pass: 25 sec
+
+Time pass: 25 sec
+
+Time pass: 25 sec
+
+Time pass: 25 sec
+
+Time pass: 25 sec
+
+Time pass: 25 sec
+
+Time pass: 25 sec
+
+Time pass: 25 sec
+
+Time pass: 25 sec
+
+Time pass: 25 sec
+
+Time pass: 25 sec
+
+Time pass: 25 sec
+
+Time pass: 25 sec
+
+Time pass: 25 sec
+
+Time pass: 25 sec
+
+Time pass: 25 sec
+
+Time pass: 25 sec
+
+Time pass: 25 sec
+
+Time pass: 25 sec
+
+Time pass: 25 sec
+
+Time pass: 25 sec
+
+Time pass: 25 sec
+
+Time pass: 25 sec
+
+background_rx_bytes = 0
+background_tx_bytes = 0
+Time pass: 25 sec
+
+foreground_rx_bytes = 14573
+foreground_tx_bytes = 4579
+Time pass: 25 sec
+
+Time pass: 25 sec
+
+Time pass: 25 sec
+
+Time pass: 25 sec
+
+Time pass: 25 sec
+
+Time pass: 25 sec
+
+Time pass: 25 sec
+
+Time pass: 25 sec
+
+Time pass: 25 sec
+
+---2015-12-09 11:08:21
+Time pass: 29 sec
+
+Time pass: 29 sec
+
+Time pass: 29 sec
+
+Time pass: 29 sec
+
+Time pass: 29 sec
+
+Time pass: 29 sec
+
+Time pass: 29 sec
+
+Time pass: 29 sec
+
+Time pass: 29 sec
+
+Time pass: 29 sec
+
+Time pass: 29 sec
+
+Time pass: 29 sec
+
+Time pass: 29 sec
+
+Time pass: 29 sec
+
+Time pass: 29 sec
+
+Time pass: 29 sec
+
+Time pass: 29 sec
+
+Time pass: 29 sec
+
+Time pass: 29 sec
+
+Time pass: 29 sec
+
+Time pass: 29 sec
+
+Time pass: 29 sec
+
+Time pass: 29 sec
+
+Time pass: 29 sec
+
+Time pass: 29 sec
+
+Time pass: 29 sec
+
+Time pass: 29 sec
+
+background_rx_bytes = 0
+background_tx_bytes = 0
+Time pass: 29 sec
+
+foreground_rx_bytes = 300862
+foreground_tx_bytes = 15628
+Time pass: 29 sec
+
+Time pass: 29 sec
+
+Time pass: 29 sec
+
+Time pass: 29 sec
+
+Time pass: 29 sec
+
+Time pass: 29 sec
+
+Time pass: 29 sec
+
+Time pass: 29 sec
+
+Time pass: 29 sec
+
+---2015-12-09 11:08:21
+Time pass: 32 sec
+
+Time pass: 32 sec
+
+Time pass: 32 sec
+
+Time pass: 32 sec
+
+Time pass: 32 sec
+
+Time pass: 32 sec
+
+Time pass: 32 sec
+
+Time pass: 32 sec
+
+Time pass: 32 sec
+
+Time pass: 32 sec
+
+Time pass: 32 sec
+
+Time pass: 32 sec
+
+Time pass: 32 sec
+
+Time pass: 32 sec
+
+Time pass: 32 sec
+
+Time pass: 32 sec
+
+Time pass: 32 sec
+
+Time pass: 32 sec
+
+Time pass: 32 sec
+
+Time pass: 32 sec
+
+Time pass: 32 sec
+
+Time pass: 32 sec
+
+Time pass: 32 sec
+
+Time pass: 32 sec
+
+Time pass: 32 sec
+
+Time pass: 32 sec
+
+Time pass: 32 sec
+
+background_rx_bytes = 0
+background_tx_bytes = 0
+Time pass: 32 sec
+
+foreground_rx_bytes = 300862
+foreground_tx_bytes = 15628
+Time pass: 32 sec
+
+Time pass: 32 sec
+
+Time pass: 32 sec
+
+Time pass: 32 sec
+
+Time pass: 32 sec
+
+Time pass: 32 sec
+
+Time pass: 32 sec
+
+Time pass: 32 sec
+
+Time pass: 32 sec
+
+---2015-12-09 11:08:21
+Time pass: 36 sec
+
+Time pass: 36 sec
+
+Time pass: 36 sec
+
+Time pass: 36 sec
+
+Time pass: 36 sec
+
+Time pass: 36 sec
+
+Time pass: 36 sec
+
+Time pass: 36 sec
+
+Time pass: 36 sec
+
+Time pass: 36 sec
+
+Time pass: 36 sec
+
+Time pass: 36 sec
+
+Time pass: 36 sec
+
+Time pass: 36 sec
+
+Time pass: 36 sec
+
+Time pass: 36 sec
+
+Time pass: 36 sec
+
+Time pass: 36 sec
+
+Time pass: 36 sec
+
+Time pass: 36 sec
+
+Time pass: 36 sec
+
+Time pass: 36 sec
+
+Time pass: 36 sec
+
+Time pass: 36 sec
+
+Time pass: 36 sec
+
+Time pass: 36 sec
+
+Time pass: 36 sec
+
+background_rx_bytes = 0
+background_tx_bytes = 0
+Time pass: 36 sec
+
+foreground_rx_bytes = 302034
+foreground_tx_bytes = 16584
+Time pass: 36 sec
+
+Time pass: 36 sec
+
+Time pass: 36 sec
+
+Time pass: 36 sec
+
+Time pass: 36 sec
+
+Time pass: 36 sec
+
+Time pass: 36 sec
+
+Time pass: 36 sec
+
+Time pass: 36 sec
+
+---2015-12-09 11:08:21
+Time pass: 39 sec
+
+Time pass: 39 sec
+
+Time pass: 39 sec
+
+Time pass: 39 sec
+
+Time pass: 39 sec
+
+Time pass: 39 sec
+
+Time pass: 39 sec
+
+Time pass: 39 sec
+
+Time pass: 39 sec
+
+Time pass: 39 sec
+
+Time pass: 39 sec
+
+Time pass: 39 sec
+
+Time pass: 39 sec
+
+Time pass: 39 sec
+
+Time pass: 39 sec
+
+Time pass: 39 sec
+
+Time pass: 39 sec
+
+Time pass: 39 sec
+
+Time pass: 39 sec
+
+Time pass: 39 sec
+
+Time pass: 39 sec
+
+Time pass: 39 sec
+
+Time pass: 39 sec
+
+Time pass: 39 sec
+
+Time pass: 39 sec
+
+Time pass: 39 sec
+
+Time pass: 39 sec
+
+background_rx_bytes = 0
+background_tx_bytes = 0
+Time pass: 39 sec
+
+foreground_rx_bytes = 304484
+foreground_tx_bytes = 18638
+Time pass: 39 sec
+
+Time pass: 39 sec
+
+Time pass: 39 sec
+
+Time pass: 39 sec
+
+Time pass: 39 sec
+
+Time pass: 39 sec
+
+Time pass: 39 sec
+
+Time pass: 39 sec
+
+Time pass: 39 sec
+
+---2015-12-09 11:08:21
+Time pass: 43 sec
+
+Time pass: 43 sec
+
+Time pass: 43 sec
+
+Time pass: 43 sec
+
+Time pass: 43 sec
+
+Time pass: 43 sec
+
+Time pass: 43 sec
+
+Time pass: 43 sec
+
+Time pass: 43 sec
+
+Time pass: 43 sec
+
+Time pass: 43 sec
+
+Time pass: 43 sec
+
+Time pass: 43 sec
+
+Time pass: 43 sec
+
+Time pass: 43 sec
+
+Time pass: 43 sec
+
+Time pass: 43 sec
+
+Time pass: 43 sec
+
+Time pass: 43 sec
+
+Time pass: 43 sec
+
+Time pass: 43 sec
+
+Time pass: 43 sec
+
+Time pass: 43 sec
+
+Time pass: 43 sec
+
+Time pass: 43 sec
+
+Time pass: 43 sec
+
+Time pass: 43 sec
+
+background_rx_bytes = 0
+background_tx_bytes = 0
+Time pass: 43 sec
+
+foreground_rx_bytes = 305284
+foreground_tx_bytes = 19235
+Time pass: 43 sec
+
+Time pass: 43 sec
+
+Time pass: 43 sec
+
+Time pass: 43 sec
+
+Time pass: 43 sec
+
+Time pass: 43 sec
+
+Time pass: 43 sec
+
+Time pass: 43 sec
+
+Time pass: 43 sec
+
+---2015-12-09 11:08:21
+Time pass: 46 sec
+
+Time pass: 46 sec
+
+Time pass: 46 sec
+
+Time pass: 46 sec
+
+Time pass: 46 sec
+
+Time pass: 46 sec
+
+Time pass: 46 sec
+
+Time pass: 46 sec
+
+Time pass: 46 sec
+
+Time pass: 46 sec
+
+Time pass: 46 sec
+
+Time pass: 46 sec
+
+Time pass: 46 sec
+
+Time pass: 46 sec
+
+Time pass: 46 sec
+
+Time pass: 46 sec
+
+Time pass: 46 sec
+
+Time pass: 46 sec
+
+Time pass: 46 sec
+
+Time pass: 46 sec
+
+Time pass: 46 sec
+
+Time pass: 46 sec
+
+Time pass: 46 sec
+
+Time pass: 46 sec
+
+Time pass: 46 sec
+
+Time pass: 46 sec
+
+Time pass: 46 sec
+
+background_rx_bytes = 0
+background_tx_bytes = 0
+Time pass: 46 sec
+
+foreground_rx_bytes = 306357
+foreground_tx_bytes = 20032
+Time pass: 46 sec
+
+Time pass: 46 sec
+
+Time pass: 46 sec
+
+Time pass: 46 sec
+
+Time pass: 46 sec
+
+Time pass: 46 sec
+
+Time pass: 46 sec
+
+Time pass: 46 sec
+
+Time pass: 46 sec
+
+---2015-12-09 11:08:21
+Time pass: 50 sec
+
+Time pass: 50 sec
+
+Time pass: 50 sec
+
+Time pass: 50 sec
+
+Time pass: 50 sec
+
+Time pass: 50 sec
+
+Time pass: 50 sec
+
+Time pass: 50 sec
+
+Time pass: 50 sec
+
+Time pass: 50 sec
+
+Time pass: 50 sec
+
+Time pass: 50 sec
+
+Time pass: 50 sec
+
+Time pass: 50 sec
+
+Time pass: 50 sec
+
+Time pass: 50 sec
+
+Time pass: 50 sec
+
+Time pass: 50 sec
+
+Time pass: 50 sec
+
+Time pass: 50 sec
+
+Time pass: 50 sec
+
+Time pass: 50 sec
+
+Time pass: 50 sec
+
+Time pass: 50 sec
+
+Time pass: 50 sec
+
+Time pass: 50 sec
+
+Time pass: 50 sec
+
+background_rx_bytes = 0
+background_tx_bytes = 0
+Time pass: 50 sec
+
+foreground_rx_bytes = 826247
+foreground_tx_bytes = 276572
+Time pass: 50 sec
+
+Time pass: 50 sec
+
+Time pass: 50 sec
+
+Time pass: 50 sec
+
+Time pass: 50 sec
+
+Time pass: 50 sec
+
+Time pass: 50 sec
+
+Time pass: 50 sec
+
+Time pass: 50 sec
+
+---2015-12-09 11:08:21
+Time pass: 53 sec
+
+Time pass: 53 sec
+
+Time pass: 53 sec
+
+Time pass: 53 sec
+
+Time pass: 53 sec
+
+Time pass: 53 sec
+
+Time pass: 53 sec
+
+Time pass: 53 sec
+
+Time pass: 53 sec
+
+Time pass: 53 sec
+
+Time pass: 53 sec
+
+Time pass: 53 sec
+
+Time pass: 53 sec
+
+Time pass: 53 sec
+
+Time pass: 53 sec
+
+Time pass: 53 sec
+
+Time pass: 53 sec
+
+Time pass: 53 sec
+
+Time pass: 53 sec
+
+Time pass: 53 sec
+
+Time pass: 53 sec
+
+Time pass: 53 sec
+
+Time pass: 53 sec
+
+Time pass: 53 sec
+
+Time pass: 53 sec
+
+Time pass: 53 sec
+
+Time pass: 53 sec
+
+background_rx_bytes = 0
+background_tx_bytes = 0
+Time pass: 53 sec
+
+foreground_rx_bytes = 1107518
+foreground_tx_bytes = 291875
+Time pass: 53 sec
+
+Time pass: 53 sec
+
+Time pass: 53 sec
+
+Time pass: 53 sec
+
+Time pass: 53 sec
+
+Time pass: 53 sec
+
+Time pass: 53 sec
+
+Time pass: 53 sec
+
+Time pass: 53 sec
+
+---2015-12-09 11:08:21
+Time pass: 57 sec
+
+Time pass: 57 sec
+
+Time pass: 57 sec
+
+Time pass: 57 sec
+
+Time pass: 57 sec
+
+Time pass: 57 sec
+
+Time pass: 57 sec
+
+Time pass: 57 sec
+
+Time pass: 57 sec
+
+Time pass: 57 sec
+
+Time pass: 57 sec
+
+Time pass: 57 sec
+
+Time pass: 57 sec
+
+Time pass: 57 sec
+
+Time pass: 57 sec
+
+Time pass: 57 sec
+
+Time pass: 57 sec
+
+Time pass: 57 sec
+
+Time pass: 57 sec
+
+Time pass: 57 sec
+
+Time pass: 57 sec
+
+Time pass: 57 sec
+
+Time pass: 57 sec
+
+Time pass: 57 sec
+
+Time pass: 57 sec
+
+Time pass: 57 sec
+
+Time pass: 57 sec
+
+background_rx_bytes = 0
+background_tx_bytes = 0
+Time pass: 57 sec
+
+foreground_rx_bytes = 1108444
+foreground_tx_bytes = 304001
+Time pass: 57 sec
+
+Time pass: 57 sec
+
+Time pass: 57 sec
+
+Time pass: 57 sec
+
+Time pass: 57 sec
+
+Time pass: 57 sec
+
+Time pass: 57 sec
+
+Time pass: 57 sec
+
+Time pass: 57 sec
+
+---2015-12-09 11:08:21
+Time pass: 60 sec
+
+Time pass: 60 sec
+
+Time pass: 60 sec
+
+Time pass: 60 sec
+
+Time pass: 60 sec
+
+Time pass: 60 sec
+
+Time pass: 60 sec
+
+Time pass: 60 sec
+
+Time pass: 60 sec
+
+Time pass: 60 sec
+
+Time pass: 60 sec
+
+Time pass: 60 sec
+
+Time pass: 60 sec
+
+Time pass: 60 sec
+
+Time pass: 60 sec
+
+Time pass: 60 sec
+
+Time pass: 60 sec
+
+Time pass: 60 sec
+
+Time pass: 60 sec
+
+Time pass: 60 sec
+
+Time pass: 60 sec
+
+Time pass: 60 sec
+
+Time pass: 60 sec
+
+Time pass: 60 sec
+
+Time pass: 60 sec
+
+Time pass: 60 sec
+
+Time pass: 60 sec
+
+background_rx_bytes = 0
+background_tx_bytes = 0
+Time pass: 60 sec
+
+foreground_rx_bytes = 1228033
+foreground_tx_bytes = 341738
+Time pass: 60 sec
+
+Time pass: 60 sec
+
+Time pass: 60 sec
+
+Time pass: 60 sec
+
+Time pass: 60 sec
+
+Time pass: 60 sec
+
+Time pass: 60 sec
+
+Time pass: 60 sec
+
+Time pass: 60 sec
+
+---2015-12-09 11:08:21
+Time pass: 64 sec
+
+Time pass: 64 sec
+
+Time pass: 64 sec
+
+Time pass: 64 sec
+
+Time pass: 64 sec
+
+Time pass: 64 sec
+
+Time pass: 64 sec
+
+Time pass: 64 sec
+
+Time pass: 64 sec
+
+Time pass: 64 sec
+
+Time pass: 64 sec
+
+Time pass: 64 sec
+
+Time pass: 64 sec
+
+Time pass: 64 sec
+
+Time pass: 64 sec
+
+Time pass: 64 sec
+
+Time pass: 64 sec
+
+Time pass: 64 sec
+
+Time pass: 64 sec
+
+Time pass: 64 sec
+
+Time pass: 64 sec
+
+Time pass: 64 sec
+
+Time pass: 64 sec
+
+Time pass: 64 sec
+
+Time pass: 64 sec
+
+Time pass: 64 sec
+
+Time pass: 64 sec
+
+background_rx_bytes = 0
+background_tx_bytes = 0
+Time pass: 64 sec
+
+foreground_rx_bytes = 1228709
+foreground_tx_bytes = 343099
+Time pass: 64 sec
+
+Time pass: 64 sec
+
+Time pass: 64 sec
+
+Time pass: 64 sec
+
+Time pass: 64 sec
+
+Time pass: 64 sec
+
+Time pass: 64 sec
+
+Time pass: 64 sec
+
+Time pass: 64 sec
+
+---2015-12-09 11:08:21
+Time pass: 67 sec
+
+Time pass: 67 sec
+
+Time pass: 67 sec
+
+Time pass: 67 sec
+
+Time pass: 67 sec
+
+Time pass: 67 sec
+
+Time pass: 67 sec
+
+Time pass: 67 sec
+
+Time pass: 67 sec
+
+Time pass: 67 sec
+
+Time pass: 67 sec
+
+Time pass: 67 sec
+
+Time pass: 67 sec
+
+Time pass: 67 sec
+
+Time pass: 67 sec
+
+Time pass: 67 sec
+
+Time pass: 67 sec
+
+Time pass: 67 sec
+
+Time pass: 67 sec
+
+Time pass: 67 sec
+
+Time pass: 67 sec
+
+Time pass: 67 sec
+
+Time pass: 67 sec
+
+Time pass: 67 sec
+
+Time pass: 67 sec
+
+Time pass: 67 sec
+
+Time pass: 67 sec
+
+background_rx_bytes = 0
+background_tx_bytes = 0
+Time pass: 67 sec
+
+foreground_rx_bytes = 1234721
+foreground_tx_bytes = 367152
+Time pass: 67 sec
+
+Time pass: 67 sec
+
+Time pass: 67 sec
+
+Time pass: 67 sec
+
+Time pass: 67 sec
+
+Time pass: 67 sec
+
+Time pass: 67 sec
+
+Time pass: 67 sec
+
+Time pass: 67 sec
+
+---2015-12-09 11:08:21
+Time pass: 71 sec
+
+Time pass: 71 sec
+
+Time pass: 71 sec
+
+Time pass: 71 sec
+
+Time pass: 71 sec
+
+Time pass: 71 sec
+
+Time pass: 71 sec
+
+Time pass: 71 sec
+
+Time pass: 71 sec
+
+Time pass: 71 sec
+
+Time pass: 71 sec
+
+Time pass: 71 sec
+
+Time pass: 71 sec
+
+Time pass: 71 sec
+
+Time pass: 71 sec
+
+Time pass: 71 sec
+
+Time pass: 71 sec
+
+Time pass: 71 sec
+
+Time pass: 71 sec
+
+Time pass: 71 sec
+
+Time pass: 71 sec
+
+Time pass: 71 sec
+
+Time pass: 71 sec
+
+Time pass: 71 sec
+
+Time pass: 71 sec
+
+Time pass: 71 sec
+
+Time pass: 71 sec
+
+background_rx_bytes = 0
+background_tx_bytes = 0
+Time pass: 71 sec
+
+foreground_rx_bytes = 1235129
+foreground_tx_bytes = 367605
+Time pass: 71 sec
+
+Time pass: 71 sec
+
+Time pass: 71 sec
+
+Time pass: 71 sec
+
+Time pass: 71 sec
+
+Time pass: 71 sec
+
+Time pass: 71 sec
+
+Time pass: 71 sec
+
+Time pass: 71 sec
+
+---2015-12-09 11:08:21
+Time pass: 75 sec
+
+Time pass: 75 sec
+
+Time pass: 75 sec
+
+Time pass: 75 sec
+
+Time pass: 75 sec
+
+Time pass: 75 sec
+
+Time pass: 75 sec
+
+Time pass: 75 sec
+
+Time pass: 75 sec
+
+Time pass: 75 sec
+
+Time pass: 75 sec
+
+Time pass: 75 sec
+
+Time pass: 75 sec
+
+Time pass: 75 sec
+
+Time pass: 75 sec
+
+Time pass: 75 sec
+
+Time pass: 75 sec
+
+Time pass: 75 sec
+
+Time pass: 75 sec
+
+Time pass: 75 sec
+
+Time pass: 75 sec
+
+Time pass: 75 sec
+
+Time pass: 75 sec
+
+Time pass: 75 sec
+
+Time pass: 75 sec
+
+Time pass: 75 sec
+
+Time pass: 75 sec
+
+background_rx_bytes = 0
+background_tx_bytes = 0
+Time pass: 75 sec
+
+foreground_rx_bytes = 4173130
+foreground_tx_bytes = 425946
+Time pass: 75 sec
+

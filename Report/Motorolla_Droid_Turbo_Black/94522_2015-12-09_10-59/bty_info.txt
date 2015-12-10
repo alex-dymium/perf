@@ -1,0 +1,1920 @@
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 58
+  scale: 100
+  voltage: 3917
+  temperature: 277
+  technology: Li-ion
+Time pass: 3 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 58
+  scale: 100
+  voltage: 3917
+  temperature: 277
+  technology: Li-ion
+Time pass: 7 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 58
+  scale: 100
+  voltage: 3917
+  temperature: 277
+  technology: Li-ion
+Time pass: 11 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 58
+  scale: 100
+  voltage: 3917
+  temperature: 277
+  technology: Li-ion
+Time pass: 15 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 58
+  scale: 100
+  voltage: 3917
+  temperature: 277
+  technology: Li-ion
+Time pass: 19 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 58
+  scale: 100
+  voltage: 3917
+  temperature: 277
+  technology: Li-ion
+Time pass: 22 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 58
+  scale: 100
+  voltage: 3917
+  temperature: 277
+  technology: Li-ion
+Time pass: 26 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 58
+  scale: 100
+  voltage: 3917
+  temperature: 277
+  technology: Li-ion
+Time pass: 30 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 58
+  scale: 100
+  voltage: 3901
+  temperature: 280
+  technology: Li-ion
+Time pass: 34 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 58
+  scale: 100
+  voltage: 3901
+  temperature: 280
+  technology: Li-ion
+Time pass: 38 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 58
+  scale: 100
+  voltage: 3901
+  temperature: 280
+  technology: Li-ion
+Time pass: 41 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 58
+  scale: 100
+  voltage: 3901
+  temperature: 280
+  technology: Li-ion
+Time pass: 45 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 58
+  scale: 100
+  voltage: 3901
+  temperature: 280
+  technology: Li-ion
+Time pass: 49 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 58
+  scale: 100
+  voltage: 3901
+  temperature: 280
+  technology: Li-ion
+Time pass: 53 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 58
+  scale: 100
+  voltage: 3901
+  temperature: 280
+  technology: Li-ion
+Time pass: 56 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 58
+  scale: 100
+  voltage: 3901
+  temperature: 280
+  technology: Li-ion
+Time pass: 60 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 58
+  scale: 100
+  voltage: 3901
+  temperature: 280
+  technology: Li-ion
+Time pass: 64 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 58
+  scale: 100
+  voltage: 3901
+  temperature: 280
+  technology: Li-ion
+Time pass: 67 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 58
+  scale: 100
+  voltage: 3901
+  temperature: 280
+  technology: Li-ion
+Time pass: 71 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 58
+  scale: 100
+  voltage: 3901
+  temperature: 280
+  technology: Li-ion
+Time pass: 75 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 58
+  scale: 100
+  voltage: 3901
+  temperature: 280
+  technology: Li-ion
+Time pass: 79 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 58
+  scale: 100
+  voltage: 3901
+  temperature: 280
+  technology: Li-ion
+Time pass: 83 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 58
+  scale: 100
+  voltage: 3901
+  temperature: 280
+  technology: Li-ion
+Time pass: 88 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 58
+  scale: 100
+  voltage: 3901
+  temperature: 280
+  technology: Li-ion
+Time pass: 92 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 57
+  scale: 100
+  voltage: 3879
+  temperature: 285
+  technology: Li-ion
+Time pass: 95 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 57
+  scale: 100
+  voltage: 3879
+  temperature: 285
+  technology: Li-ion
+Time pass: 99 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 57
+  scale: 100
+  voltage: 3879
+  temperature: 285
+  technology: Li-ion
+Time pass: 103 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 57
+  scale: 100
+  voltage: 3879
+  temperature: 285
+  technology: Li-ion
+Time pass: 106 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 57
+  scale: 100
+  voltage: 3879
+  temperature: 285
+  technology: Li-ion
+Time pass: 110 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 57
+  scale: 100
+  voltage: 3879
+  temperature: 285
+  technology: Li-ion
+Time pass: 114 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 57
+  scale: 100
+  voltage: 3879
+  temperature: 285
+  technology: Li-ion
+Time pass: 117 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 57
+  scale: 100
+  voltage: 3879
+  temperature: 285
+  technology: Li-ion
+Time pass: 121 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 57
+  scale: 100
+  voltage: 3879
+  temperature: 285
+  technology: Li-ion
+Time pass: 125 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 57
+  scale: 100
+  voltage: 3879
+  temperature: 285
+  technology: Li-ion
+Time pass: 128 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 57
+  scale: 100
+  voltage: 3879
+  temperature: 285
+  technology: Li-ion
+Time pass: 132 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 57
+  scale: 100
+  voltage: 3879
+  temperature: 285
+  technology: Li-ion
+Time pass: 136 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 57
+  scale: 100
+  voltage: 3879
+  temperature: 285
+  technology: Li-ion
+Time pass: 139 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 57
+  scale: 100
+  voltage: 3879
+  temperature: 285
+  technology: Li-ion
+Time pass: 143 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 57
+  scale: 100
+  voltage: 3879
+  temperature: 285
+  technology: Li-ion
+Time pass: 147 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 57
+  scale: 100
+  voltage: 3879
+  temperature: 285
+  technology: Li-ion
+Time pass: 151 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 57
+  scale: 100
+  voltage: 3870
+  temperature: 290
+  technology: Li-ion
+Time pass: 154 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 57
+  scale: 100
+  voltage: 3870
+  temperature: 290
+  technology: Li-ion
+Time pass: 158 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 57
+  scale: 100
+  voltage: 3870
+  temperature: 290
+  technology: Li-ion
+Time pass: 162 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 57
+  scale: 100
+  voltage: 3870
+  temperature: 290
+  technology: Li-ion
+Time pass: 165 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 57
+  scale: 100
+  voltage: 3870
+  temperature: 290
+  technology: Li-ion
+Time pass: 170 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 57
+  scale: 100
+  voltage: 3870
+  temperature: 290
+  technology: Li-ion
+Time pass: 174 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 57
+  scale: 100
+  voltage: 3870
+  temperature: 290
+  technology: Li-ion
+Time pass: 177 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 57
+  scale: 100
+  voltage: 3870
+  temperature: 290
+  technology: Li-ion
+Time pass: 181 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 57
+  scale: 100
+  voltage: 3870
+  temperature: 290
+  technology: Li-ion
+Time pass: 185 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 57
+  scale: 100
+  voltage: 3870
+  temperature: 290
+  technology: Li-ion
+Time pass: 189 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 57
+  scale: 100
+  voltage: 3870
+  temperature: 290
+  technology: Li-ion
+Time pass: 192 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 57
+  scale: 100
+  voltage: 3870
+  temperature: 290
+  technology: Li-ion
+Time pass: 196 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 57
+  scale: 100
+  voltage: 3870
+  temperature: 290
+  technology: Li-ion
+Time pass: 200 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 57
+  scale: 100
+  voltage: 3870
+  temperature: 290
+  technology: Li-ion
+Time pass: 204 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 57
+  scale: 100
+  voltage: 3870
+  temperature: 290
+  technology: Li-ion
+Time pass: 207 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 57
+  scale: 100
+  voltage: 3870
+  temperature: 290
+  technology: Li-ion
+Time pass: 211 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 57
+  scale: 100
+  voltage: 3870
+  temperature: 297
+  technology: Li-ion
+Time pass: 215 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 57
+  scale: 100
+  voltage: 3858
+  temperature: 297
+  technology: Li-ion
+Time pass: 219 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 57
+  scale: 100
+  voltage: 3858
+  temperature: 297
+  technology: Li-ion
+Time pass: 222 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 56
+  scale: 100
+  voltage: 3858
+  temperature: 300
+  technology: Li-ion
+Time pass: 227 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 56
+  scale: 100
+  voltage: 3858
+  temperature: 300
+  technology: Li-ion
+Time pass: 231 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 56
+  scale: 100
+  voltage: 3858
+  temperature: 300
+  technology: Li-ion
+Time pass: 235 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 56
+  scale: 100
+  voltage: 3858
+  temperature: 300
+  technology: Li-ion
+Time pass: 239 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 56
+  scale: 100
+  voltage: 3858
+  temperature: 300
+  technology: Li-ion
+Time pass: 243 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 56
+  scale: 100
+  voltage: 3858
+  temperature: 300
+  technology: Li-ion
+Time pass: 247 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 56
+  scale: 100
+  voltage: 3858
+  temperature: 300
+  technology: Li-ion
+Time pass: 251 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 56
+  scale: 100
+  voltage: 3858
+  temperature: 300
+  technology: Li-ion
+Time pass: 255 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 56
+  scale: 100
+  voltage: 3858
+  temperature: 300
+  technology: Li-ion
+Time pass: 259 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 56
+  scale: 100
+  voltage: 3858
+  temperature: 300
+  technology: Li-ion
+Time pass: 263 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 56
+  scale: 100
+  voltage: 3858
+  temperature: 300
+  technology: Li-ion
+Time pass: 267 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 56
+  scale: 100
+  voltage: 3858
+  temperature: 300
+  technology: Li-ion
+Time pass: 271 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 56
+  scale: 100
+  voltage: 3858
+  temperature: 300
+  technology: Li-ion
+Time pass: 275 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 56
+  scale: 100
+  voltage: 3833
+  temperature: 305
+  technology: Li-ion
+Time pass: 279 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 56
+  scale: 100
+  voltage: 3833
+  temperature: 305
+  technology: Li-ion
+Time pass: 283 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 56
+  scale: 100
+  voltage: 3833
+  temperature: 305
+  technology: Li-ion
+Time pass: 287 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 56
+  scale: 100
+  voltage: 3833
+  temperature: 305
+  technology: Li-ion
+Time pass: 291 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 56
+  scale: 100
+  voltage: 3833
+  temperature: 305
+  technology: Li-ion
+Time pass: 295 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 56
+  scale: 100
+  voltage: 3833
+  temperature: 305
+  technology: Li-ion
+Time pass: 298 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 56
+  scale: 100
+  voltage: 3833
+  temperature: 305
+  technology: Li-ion
+Time pass: 303 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 56
+  scale: 100
+  voltage: 3833
+  temperature: 305
+  technology: Li-ion
+Time pass: 307 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 56
+  scale: 100
+  voltage: 3833
+  temperature: 305
+  technology: Li-ion
+Time pass: 311 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 56
+  scale: 100
+  voltage: 3833
+  temperature: 305
+  technology: Li-ion
+Time pass: 315 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 56
+  scale: 100
+  voltage: 3833
+  temperature: 305
+  technology: Li-ion
+Time pass: 318 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 56
+  scale: 100
+  voltage: 3833
+  temperature: 305
+  technology: Li-ion
+Time pass: 323 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 56
+  scale: 100
+  voltage: 3833
+  temperature: 305
+  technology: Li-ion
+Time pass: 327 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 56
+  scale: 100
+  voltage: 3833
+  temperature: 305
+  technology: Li-ion
+Time pass: 331 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 56
+  scale: 100
+  voltage: 3833
+  temperature: 305
+  technology: Li-ion
+Time pass: 334 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 56
+  scale: 100
+  voltage: 3860
+  temperature: 310
+  technology: Li-ion
+Time pass: 338 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 56
+  scale: 100
+  voltage: 3860
+  temperature: 310
+  technology: Li-ion
+Time pass: 342 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 56
+  scale: 100
+  voltage: 3860
+  temperature: 310
+  technology: Li-ion
+Time pass: 345 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 56
+  scale: 100
+  voltage: 3860
+  temperature: 310
+  technology: Li-ion
+Time pass: 349 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 56
+  scale: 100
+  voltage: 3860
+  temperature: 310
+  technology: Li-ion
+Time pass: 352 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 56
+  scale: 100
+  voltage: 3860
+  temperature: 310
+  technology: Li-ion
+Time pass: 356 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 56
+  scale: 100
+  voltage: 3860
+  temperature: 310
+  technology: Li-ion
+Time pass: 359 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 56
+  scale: 100
+  voltage: 3860
+  temperature: 310
+  technology: Li-ion
+Time pass: 363 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 56
+  scale: 100
+  voltage: 3860
+  temperature: 310
+  technology: Li-ion
+Time pass: 367 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 56
+  scale: 100
+  voltage: 3860
+  temperature: 310
+  technology: Li-ion
+Time pass: 371 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 56
+  scale: 100
+  voltage: 3860
+  temperature: 310
+  technology: Li-ion
+Time pass: 375 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 56
+  scale: 100
+  voltage: 3860
+  temperature: 310
+  technology: Li-ion
+Time pass: 379 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 56
+  scale: 100
+  voltage: 3860
+  temperature: 310
+  technology: Li-ion
+Time pass: 383 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 56
+  scale: 100
+  voltage: 3860
+  temperature: 310
+  technology: Li-ion
+Time pass: 387 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 56
+  scale: 100
+  voltage: 3860
+  temperature: 310
+  technology: Li-ion
+Time pass: 390 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 56
+  scale: 100
+  voltage: 3860
+  temperature: 310
+  technology: Li-ion
+Time pass: 394 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 56
+  scale: 100
+  voltage: 3860
+  temperature: 312
+  technology: Li-ion
+Time pass: 398 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 56
+  scale: 100
+  voltage: 3854
+  temperature: 312
+  technology: Li-ion
+Time pass: 402 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 56
+  scale: 100
+  voltage: 3854
+  temperature: 312
+  technology: Li-ion
+Time pass: 406 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 56
+  scale: 100
+  voltage: 3854
+  temperature: 312
+  technology: Li-ion
+Time pass: 409 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 56
+  scale: 100
+  voltage: 3854
+  temperature: 312
+  technology: Li-ion
+Time pass: 413 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 56
+  scale: 100
+  voltage: 3854
+  temperature: 312
+  technology: Li-ion
+Time pass: 417 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 56
+  scale: 100
+  voltage: 3854
+  temperature: 312
+  technology: Li-ion
+Time pass: 421 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 56
+  scale: 100
+  voltage: 3854
+  temperature: 312
+  technology: Li-ion
+Time pass: 425 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 56
+  scale: 100
+  voltage: 3854
+  temperature: 312
+  technology: Li-ion
+Time pass: 428 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 56
+  scale: 100
+  voltage: 3854
+  temperature: 312
+  technology: Li-ion
+Time pass: 432 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 56
+  scale: 100
+  voltage: 3854
+  temperature: 312
+  technology: Li-ion
+Time pass: 436 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 56
+  scale: 100
+  voltage: 3854
+  temperature: 312
+  technology: Li-ion
+Time pass: 440 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 56
+  scale: 100
+  voltage: 3854
+  temperature: 312
+  technology: Li-ion
+Time pass: 444 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 56
+  scale: 100
+  voltage: 3854
+  temperature: 312
+  technology: Li-ion
+Time pass: 447 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 56
+  scale: 100
+  voltage: 3854
+  temperature: 312
+  technology: Li-ion
+Time pass: 451 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 56
+  scale: 100
+  voltage: 3854
+  temperature: 312
+  technology: Li-ion
+Time pass: 456 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 56
+  scale: 100
+  voltage: 3854
+  temperature: 317
+  technology: Li-ion
+Time pass: 460 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 56
+  scale: 100
+  voltage: 3850
+  temperature: 317
+  technology: Li-ion
+Time pass: 464 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 56
+  scale: 100
+  voltage: 3850
+  temperature: 317
+  technology: Li-ion
+Time pass: 468 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 56
+  scale: 100
+  voltage: 3850
+  temperature: 317
+  technology: Li-ion
+Time pass: 471 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 56
+  scale: 100
+  voltage: 3850
+  temperature: 317
+  technology: Li-ion
+Time pass: 476 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 56
+  scale: 100
+  voltage: 3850
+  temperature: 317
+  technology: Li-ion
+Time pass: 479 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 56
+  scale: 100
+  voltage: 3850
+  temperature: 317
+  technology: Li-ion
+Time pass: 483 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 56
+  scale: 100
+  voltage: 3850
+  temperature: 317
+  technology: Li-ion
+Time pass: 487 sec
+
+---2015-12-09 10:54:01
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 56
+  scale: 100
+  voltage: 3850
+  temperature: 317
+  technology: Li-ion
+Time pass: 491 sec
+

@@ -1,0 +1,513 @@
+---2015-12-09 11:08:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 16
+  scale: 100
+  voltage: 3524
+  temperature: 318
+  technology: Li-ion
+  LED Charging: true
+  LED Low Battery: false
+  current now: -560
+  Adaptive Fast Charging Settings: true
+SUPPORT_LOG_BATTERY_USAGE: true
+  isTablet: true
+  mBatteryMaxTemp: 388
+  mBatteryMaxCurrent: 1154
+  mBatteryAsocEfs: 78
+  mBatteryAsocNow: 81
+  FEATURE_SAVE_BATTERY_CYCLE: false
+USE_FAKE_BATTERY: false
+Time pass: 3 sec
+
+---2015-12-09 11:08:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 16
+  scale: 100
+  voltage: 3524
+  temperature: 318
+  technology: Li-ion
+  LED Charging: true
+  LED Low Battery: false
+  current now: -560
+  Adaptive Fast Charging Settings: true
+SUPPORT_LOG_BATTERY_USAGE: true
+  isTablet: true
+  mBatteryMaxTemp: 388
+  mBatteryMaxCurrent: 1154
+  mBatteryAsocEfs: 78
+  mBatteryAsocNow: 81
+  FEATURE_SAVE_BATTERY_CYCLE: false
+USE_FAKE_BATTERY: false
+Time pass: 7 sec
+
+---2015-12-09 11:08:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 16
+  scale: 100
+  voltage: 3524
+  temperature: 318
+  technology: Li-ion
+  LED Charging: true
+  LED Low Battery: false
+  current now: -560
+  Adaptive Fast Charging Settings: true
+SUPPORT_LOG_BATTERY_USAGE: true
+  isTablet: true
+  mBatteryMaxTemp: 388
+  mBatteryMaxCurrent: 1154
+  mBatteryAsocEfs: 78
+  mBatteryAsocNow: 81
+  FEATURE_SAVE_BATTERY_CYCLE: false
+USE_FAKE_BATTERY: false
+Time pass: 11 sec
+
+---2015-12-09 11:08:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 16
+  scale: 100
+  voltage: 3524
+  temperature: 318
+  technology: Li-ion
+  LED Charging: true
+  LED Low Battery: false
+  current now: -560
+  Adaptive Fast Charging Settings: true
+SUPPORT_LOG_BATTERY_USAGE: true
+  isTablet: true
+  mBatteryMaxTemp: 388
+  mBatteryMaxCurrent: 1154
+  mBatteryAsocEfs: 78
+  mBatteryAsocNow: 81
+  FEATURE_SAVE_BATTERY_CYCLE: false
+USE_FAKE_BATTERY: false
+Time pass: 15 sec
+
+---2015-12-09 11:08:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 16
+  scale: 100
+  voltage: 3524
+  temperature: 318
+  technology: Li-ion
+  LED Charging: true
+  LED Low Battery: false
+  current now: -560
+  Adaptive Fast Charging Settings: true
+SUPPORT_LOG_BATTERY_USAGE: true
+  isTablet: true
+  mBatteryMaxTemp: 388
+  mBatteryMaxCurrent: 1154
+  mBatteryAsocEfs: 78
+  mBatteryAsocNow: 81
+  FEATURE_SAVE_BATTERY_CYCLE: false
+USE_FAKE_BATTERY: false
+Time pass: 18 sec
+
+---2015-12-09 11:08:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 16
+  scale: 100
+  voltage: 3524
+  temperature: 318
+  technology: Li-ion
+  LED Charging: true
+  LED Low Battery: false
+  current now: -560
+  Adaptive Fast Charging Settings: true
+SUPPORT_LOG_BATTERY_USAGE: true
+  isTablet: true
+  mBatteryMaxTemp: 388
+  mBatteryMaxCurrent: 1154
+  mBatteryAsocEfs: 78
+  mBatteryAsocNow: 81
+  FEATURE_SAVE_BATTERY_CYCLE: false
+USE_FAKE_BATTERY: false
+Time pass: 22 sec
+
+---2015-12-09 11:08:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 16
+  scale: 100
+  voltage: 3524
+  temperature: 318
+  technology: Li-ion
+  LED Charging: true
+  LED Low Battery: false
+  current now: -560
+  Adaptive Fast Charging Settings: true
+SUPPORT_LOG_BATTERY_USAGE: true
+  isTablet: true
+  mBatteryMaxTemp: 388
+  mBatteryMaxCurrent: 1154
+  mBatteryAsocEfs: 78
+  mBatteryAsocNow: 81
+  FEATURE_SAVE_BATTERY_CYCLE: false
+USE_FAKE_BATTERY: false
+Time pass: 26 sec
+
+---2015-12-09 11:08:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 15
+  scale: 100
+  voltage: 3476
+  temperature: 318
+  technology: Li-ion
+  LED Charging: true
+  LED Low Battery: false
+  current now: -745
+  Adaptive Fast Charging Settings: true
+SUPPORT_LOG_BATTERY_USAGE: true
+  isTablet: true
+  mBatteryMaxTemp: 388
+  mBatteryMaxCurrent: 1154
+  mBatteryAsocEfs: 78
+  mBatteryAsocNow: 81
+  FEATURE_SAVE_BATTERY_CYCLE: false
+USE_FAKE_BATTERY: false
+Time pass: 30 sec
+
+---2015-12-09 11:08:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 15
+  scale: 100
+  voltage: 3476
+  temperature: 318
+  technology: Li-ion
+  LED Charging: true
+  LED Low Battery: false
+  current now: -745
+  Adaptive Fast Charging Settings: true
+SUPPORT_LOG_BATTERY_USAGE: true
+  isTablet: true
+  mBatteryMaxTemp: 388
+  mBatteryMaxCurrent: 1154
+  mBatteryAsocEfs: 78
+  mBatteryAsocNow: 81
+  FEATURE_SAVE_BATTERY_CYCLE: false
+USE_FAKE_BATTERY: false
+Time pass: 33 sec
+
+---2015-12-09 11:08:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 15
+  scale: 100
+  voltage: 3476
+  temperature: 318
+  technology: Li-ion
+  LED Charging: true
+  LED Low Battery: false
+  current now: -745
+  Adaptive Fast Charging Settings: true
+SUPPORT_LOG_BATTERY_USAGE: true
+  isTablet: true
+  mBatteryMaxTemp: 388
+  mBatteryMaxCurrent: 1154
+  mBatteryAsocEfs: 78
+  mBatteryAsocNow: 81
+  FEATURE_SAVE_BATTERY_CYCLE: false
+USE_FAKE_BATTERY: false
+Time pass: 37 sec
+
+---2015-12-09 11:08:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 15
+  scale: 100
+  voltage: 3476
+  temperature: 318
+  technology: Li-ion
+  LED Charging: true
+  LED Low Battery: false
+  current now: -745
+  Adaptive Fast Charging Settings: true
+SUPPORT_LOG_BATTERY_USAGE: true
+  isTablet: true
+  mBatteryMaxTemp: 388
+  mBatteryMaxCurrent: 1154
+  mBatteryAsocEfs: 78
+  mBatteryAsocNow: 81
+  FEATURE_SAVE_BATTERY_CYCLE: false
+USE_FAKE_BATTERY: false
+Time pass: 41 sec
+
+---2015-12-09 11:08:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 15
+  scale: 100
+  voltage: 3476
+  temperature: 318
+  technology: Li-ion
+  LED Charging: true
+  LED Low Battery: false
+  current now: -745
+  Adaptive Fast Charging Settings: true
+SUPPORT_LOG_BATTERY_USAGE: true
+  isTablet: true
+  mBatteryMaxTemp: 388
+  mBatteryMaxCurrent: 1154
+  mBatteryAsocEfs: 78
+  mBatteryAsocNow: 81
+  FEATURE_SAVE_BATTERY_CYCLE: false
+USE_FAKE_BATTERY: false
+Time pass: 45 sec
+
+---2015-12-09 11:08:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 15
+  scale: 100
+  voltage: 3476
+  temperature: 318
+  technology: Li-ion
+  LED Charging: true
+  LED Low Battery: false
+  current now: -745
+  Adaptive Fast Charging Settings: true
+SUPPORT_LOG_BATTERY_USAGE: true
+  isTablet: true
+  mBatteryMaxTemp: 388
+  mBatteryMaxCurrent: 1154
+  mBatteryAsocEfs: 78
+  mBatteryAsocNow: 81
+  FEATURE_SAVE_BATTERY_CYCLE: false
+USE_FAKE_BATTERY: false
+Time pass: 48 sec
+
+---2015-12-09 11:08:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 15
+  scale: 100
+  voltage: 3476
+  temperature: 318
+  technology: Li-ion
+  LED Charging: true
+  LED Low Battery: false
+  current now: -745
+  Adaptive Fast Charging Settings: true
+SUPPORT_LOG_BATTERY_USAGE: true
+  isTablet: true
+  mBatteryMaxTemp: 388
+  mBatteryMaxCurrent: 1154
+  mBatteryAsocEfs: 78
+  mBatteryAsocNow: 81
+  FEATURE_SAVE_BATTERY_CYCLE: false
+USE_FAKE_BATTERY: false
+Time pass: 52 sec
+
+---2015-12-09 11:08:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 15
+  scale: 100
+  voltage: 3476
+  temperature: 318
+  technology: Li-ion
+  LED Charging: true
+  LED Low Battery: false
+  current now: -745
+  Adaptive Fast Charging Settings: true
+SUPPORT_LOG_BATTERY_USAGE: true
+  isTablet: true
+  mBatteryMaxTemp: 388
+  mBatteryMaxCurrent: 1154
+  mBatteryAsocEfs: 78
+  mBatteryAsocNow: 81
+  FEATURE_SAVE_BATTERY_CYCLE: false
+USE_FAKE_BATTERY: false
+Time pass: 55 sec
+
+---2015-12-09 11:08:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 15
+  scale: 100
+  voltage: 3476
+  temperature: 318
+  technology: Li-ion
+  LED Charging: true
+  LED Low Battery: false
+  current now: -745
+  Adaptive Fast Charging Settings: true
+SUPPORT_LOG_BATTERY_USAGE: true
+  isTablet: true
+  mBatteryMaxTemp: 388
+  mBatteryMaxCurrent: 1154
+  mBatteryAsocEfs: 78
+  mBatteryAsocNow: 81
+  FEATURE_SAVE_BATTERY_CYCLE: false
+USE_FAKE_BATTERY: false
+Time pass: 59 sec
+
+---2015-12-09 11:08:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 15
+  scale: 100
+  voltage: 3478
+  temperature: 320
+  technology: Li-ion
+  LED Charging: true
+  LED Low Battery: false
+  current now: -698
+  Adaptive Fast Charging Settings: true
+SUPPORT_LOG_BATTERY_USAGE: true
+  isTablet: true
+  mBatteryMaxTemp: 388
+  mBatteryMaxCurrent: 1154
+  mBatteryAsocEfs: 78
+  mBatteryAsocNow: 81
+  FEATURE_SAVE_BATTERY_CYCLE: false
+USE_FAKE_BATTERY: false
+Time pass: 63 sec
+
+---2015-12-09 11:08:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 15
+  scale: 100
+  voltage: 3478
+  temperature: 320
+  technology: Li-ion
+  LED Charging: true
+  LED Low Battery: false
+  current now: -698
+  Adaptive Fast Charging Settings: true
+SUPPORT_LOG_BATTERY_USAGE: true
+  isTablet: true
+  mBatteryMaxTemp: 388
+  mBatteryMaxCurrent: 1154
+  mBatteryAsocEfs: 78
+  mBatteryAsocNow: 81
+  FEATURE_SAVE_BATTERY_CYCLE: false
+USE_FAKE_BATTERY: false
+Time pass: 66 sec
+
+---2015-12-09 11:08:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: false
+  Wireless powered: false
+  status: 3
+  health: 2
+  present: true
+  level: 15
+  scale: 100
+  voltage: 3478
+  temperature: 320
+  technology: Li-ion
+  LED Charging: true
+  LED Low Battery: false
+  current now: -698
+  Adaptive Fast Charging Settings: true
+SUPPORT_LOG_BATTERY_USAGE: true
+  isTablet: true
+  mBatteryMaxTemp: 388
+  mBatteryMaxCurrent: 1154
+  mBatteryAsocEfs: 78
+  mBatteryAsocNow: 81
+  FEATURE_SAVE_BATTERY_CYCLE: false
+USE_FAKE_BATTERY: false
+Time pass: 70 sec
+
