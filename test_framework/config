@@ -3,7 +3,6 @@
   "package": "com.verizonmedia.go90.enterprise",
   "adb": "adb",
   "devices": "devices",
-  "downloadLink": "curl -s -O http://img-dist-base03.oncue.verizon.net/download/Engineering_build/android_1.2_rc2.91012/release_test/Go90-debug.apk",
   "apk": "Go90-debug.apk",
   "startapp": "am start com.verizonmedia.go90.enterprise/.OnCueActivity",
   "events_dir_name": "Events",

@@ -44,21 +44,6 @@ class Config:
         self.android_build = self.pars_json['adbShell'][0]['android_build']
 
 
-# class Devices:
-#     def __init__(self):
-#         self.devises_dir = "devices"
-#         f_devises = open(self.devises_dir).read()
-#         self.pars_json = json.loads(f_devises)
-#
-#         # TODO: Add switcher between devices
-#         # Phone settings
-#         self.totalDevices = self.pars_json['totalDevices']
-#         self.device = self.pars_json['devices'][0]['device']
-#         self.ip = self.pars_json['devices'][0]['ip']
-#         self.port = self.pars_json['devices'][0]['port']
-#         self.duration = float(self.pars_json['duration'])
-
-
 class Folders:
     def __init__(self):
         pass
