@@ -10,6 +10,8 @@ def run(ip):
     # ca.run(cmd="System.Restart")
     ca.run(cmd='Command.Touch', prm={'id': 'MsgScreenReplay'})
 
+
 if __name__ == "__main__":
-    all_devices_ip(run)
+    # all_devices_ip(run)
     # finish(0)
+    all_devices_ip(delit_last_report)

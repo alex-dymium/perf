@@ -223,19 +223,19 @@ def open_port_5555(id):
             time.sleep(1)
 def unlock_device(id):
     Connection().shell_command('input swipe 550 1170 550 800', id)
-    time.sleep(2)
+    time.sleep(3)
     Connection().shell_command('input swipe 1000 1100 200 100', id)
-    time.sleep(2)
+    time.sleep(3)
     Connection().shell_command('input swipe 300 300 500 100', id)
-    time.sleep(2)
+    time.sleep(3)
+    Connection().shell_command('input swipe 500 700 800 750', id)
+    time.sleep(3)
     Connection().shell_command('input swipe 500 700 800 750', id)
     time.sleep(2)
-    Connection().shell_command('input swipe 500 700 800 750', id)
-    time.sleep(1)
     Connection().shell_command('input swipe 550 1170 550 800', id)
-    time.sleep(1)
+    time.sleep(2)
     Connection().shell_command('input swipe 300 300 500 100', id)
-    time.sleep(1)
+    time.sleep(2)
     Connection().shell_command('input swipe 1000 1100 200 100', id)
 def exit_app_all_devices(times, delay):
     time.sleep(delay)
@@ -315,6 +315,13 @@ def get_screenshot(ip):
     subprocess.call(cmd)
     rmscreen = 'rm %s' % namescreen
     Connection().shell_command(rmscreen, ip, config['port'])
+def delit_last_report(ip, count):
+    devicename = get_device_name(ip)
+    logdir = '../Report/%s' % devicename
+    fullpath=Folders().all_subdirs_of(logdir)[0][0]
+    cmd = 'rm -rf %s' % fullpath
+    os.system(cmd)
+    print '%s Report was removed from %s' % (count, fullpath[10:])
 
 
 with open('devices.json') as config:
