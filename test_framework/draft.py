@@ -1,7 +1,7 @@
 from soak import *
 # create_report(0,'hub2')
 
-def run(ip, count):
+def run(ip):
     ca = SQAHookConnection(ip)
     # ca.run(cmd="System.SetStorageValue", prm={"key":"file/GovernorEnvironment","value":config['env']+".governor.oncue.com"})
     # ca.run(cmd="System.SetStorageValue", prm={"key":"file/isTestUser","value":True})

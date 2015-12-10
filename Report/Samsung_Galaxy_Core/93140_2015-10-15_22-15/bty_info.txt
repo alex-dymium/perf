@@ -1,0 +1,3784 @@
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4353
+  current now: 0
+  temperature: 319
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 3 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4350
+  current now: 0
+  temperature: 319
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 6 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4350
+  current now: 0
+  temperature: 319
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 10 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4350
+  current now: 0
+  temperature: 319
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 13 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4352
+  current now: 0
+  temperature: 319
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 17 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4352
+  current now: 0
+  temperature: 319
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 20 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4352
+  current now: 0
+  temperature: 319
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 24 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4348
+  current now: 0
+  temperature: 318
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 27 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4348
+  current now: 0
+  temperature: 318
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 30 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4348
+  current now: 0
+  temperature: 318
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 34 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4332
+  current now: 0
+  temperature: 318
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 37 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4332
+  current now: 0
+  temperature: 318
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 41 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4332
+  current now: 0
+  temperature: 318
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 44 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4332
+  current now: 0
+  temperature: 318
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 48 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4332
+  current now: 0
+  temperature: 318
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 51 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4332
+  current now: 0
+  temperature: 318
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 55 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4333
+  current now: 0
+  temperature: 318
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 58 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4333
+  current now: 0
+  temperature: 318
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 62 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4333
+  current now: 0
+  temperature: 318
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 65 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4332
+  current now: 0
+  temperature: 318
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 69 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4332
+  current now: 0
+  temperature: 318
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 72 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4351
+  current now: 0
+  temperature: 318
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 76 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4351
+  current now: 0
+  temperature: 318
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 79 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4351
+  current now: 0
+  temperature: 318
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 83 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4315
+  current now: 0
+  temperature: 318
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 86 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4315
+  current now: 0
+  temperature: 318
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 89 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4315
+  current now: 0
+  temperature: 318
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 93 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4315
+  current now: 0
+  temperature: 318
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 96 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4315
+  current now: 0
+  temperature: 318
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 100 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4315
+  current now: 0
+  temperature: 318
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 103 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4286
+  current now: 0
+  temperature: 318
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 107 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4286
+  current now: 0
+  temperature: 318
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 111 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4286
+  current now: 0
+  temperature: 318
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 114 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4332
+  current now: 0
+  temperature: 318
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 118 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4332
+  current now: 0
+  temperature: 318
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 121 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4332
+  current now: 0
+  temperature: 318
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 125 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4282
+  current now: 0
+  temperature: 318
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 128 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4282
+  current now: 0
+  temperature: 318
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 132 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4282
+  current now: 0
+  temperature: 318
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 135 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4318
+  current now: 0
+  temperature: 318
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 138 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4318
+  current now: 0
+  temperature: 318
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 142 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4318
+  current now: 0
+  temperature: 318
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 145 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4275
+  current now: 0
+  temperature: 319
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 149 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4275
+  current now: 0
+  temperature: 319
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 152 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4275
+  current now: 0
+  temperature: 319
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 156 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4290
+  current now: 0
+  temperature: 319
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 159 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4290
+  current now: 0
+  temperature: 319
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 162 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4290
+  current now: 0
+  temperature: 319
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 166 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4297
+  current now: 0
+  temperature: 319
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 169 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4297
+  current now: 0
+  temperature: 319
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 173 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4297
+  current now: 0
+  temperature: 319
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 176 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4283
+  current now: 0
+  temperature: 320
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 180 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4283
+  current now: 0
+  temperature: 320
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 183 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4271
+  current now: 0
+  temperature: 320
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 187 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4271
+  current now: 0
+  temperature: 320
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 191 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4271
+  current now: 0
+  temperature: 320
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 194 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4305
+  current now: 0
+  temperature: 320
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 198 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4305
+  current now: 0
+  temperature: 320
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 201 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4305
+  current now: 0
+  temperature: 320
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 204 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4300
+  current now: 0
+  temperature: 321
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 208 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4300
+  current now: 0
+  temperature: 321
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 212 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4300
+  current now: 0
+  temperature: 321
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 215 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4300
+  current now: 0
+  temperature: 321
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 219 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4300
+  current now: 0
+  temperature: 321
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 222 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4300
+  current now: 0
+  temperature: 321
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 226 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4285
+  current now: 0
+  temperature: 322
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 229 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4285
+  current now: 0
+  temperature: 322
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 233 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4285
+  current now: 0
+  temperature: 322
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 236 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4306
+  current now: 0
+  temperature: 322
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 240 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4306
+  current now: 0
+  temperature: 322
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 244 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4302
+  current now: 0
+  temperature: 322
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 247 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4302
+  current now: 0
+  temperature: 322
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 251 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4302
+  current now: 0
+  temperature: 322
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 254 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4291
+  current now: 0
+  temperature: 323
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 258 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4291
+  current now: 0
+  temperature: 323
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 261 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4291
+  current now: 0
+  temperature: 323
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 265 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4312
+  current now: 0
+  temperature: 323
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 268 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4312
+  current now: 0
+  temperature: 323
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 272 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4312
+  current now: 0
+  temperature: 323
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 275 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4295
+  current now: 0
+  temperature: 323
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 279 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4295
+  current now: 0
+  temperature: 323
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 282 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4295
+  current now: 0
+  temperature: 323
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 286 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4303
+  current now: 0
+  temperature: 323
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 289 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4303
+  current now: 0
+  temperature: 323
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 293 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4303
+  current now: 0
+  temperature: 323
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 296 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4298
+  current now: 0
+  temperature: 323
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 300 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4298
+  current now: 0
+  temperature: 323
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 303 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4298
+  current now: 0
+  temperature: 323
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 307 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4295
+  current now: 0
+  temperature: 324
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 310 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4295
+  current now: 0
+  temperature: 324
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 314 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4295
+  current now: 0
+  temperature: 324
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 317 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4301
+  current now: 0
+  temperature: 324
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 321 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4301
+  current now: 0
+  temperature: 324
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 324 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4301
+  current now: 0
+  temperature: 324
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 327 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4307
+  current now: 0
+  temperature: 324
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 331 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4307
+  current now: 0
+  temperature: 324
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 334 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4305
+  current now: 0
+  temperature: 324
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 338 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4305
+  current now: 0
+  temperature: 324
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 341 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4305
+  current now: 0
+  temperature: 324
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 345 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4305
+  current now: 0
+  temperature: 325
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 348 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4305
+  current now: 0
+  temperature: 325
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 352 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4305
+  current now: 0
+  temperature: 325
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 355 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4303
+  current now: 0
+  temperature: 325
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 359 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4303
+  current now: 0
+  temperature: 325
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 362 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4303
+  current now: 0
+  temperature: 325
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 366 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4301
+  current now: 0
+  temperature: 325
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 369 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4301
+  current now: 0
+  temperature: 325
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 373 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4301
+  current now: 0
+  temperature: 325
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 376 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4303
+  current now: 0
+  temperature: 325
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 380 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4303
+  current now: 0
+  temperature: 325
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 384 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4303
+  current now: 0
+  temperature: 325
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 387 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4300
+  current now: 0
+  temperature: 325
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 391 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4300
+  current now: 0
+  temperature: 325
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 394 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4300
+  current now: 0
+  temperature: 325
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 398 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4287
+  current now: 0
+  temperature: 325
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 401 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4287
+  current now: 0
+  temperature: 325
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 404 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4287
+  current now: 0
+  temperature: 325
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 408 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4306
+  current now: 0
+  temperature: 326
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 412 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4306
+  current now: 0
+  temperature: 326
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 415 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4302
+  current now: 0
+  temperature: 326
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 419 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4302
+  current now: 0
+  temperature: 326
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 422 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4302
+  current now: 0
+  temperature: 326
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 426 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4303
+  current now: 0
+  temperature: 326
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 429 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4303
+  current now: 0
+  temperature: 326
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 433 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4303
+  current now: 0
+  temperature: 326
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 436 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4302
+  current now: 0
+  temperature: 326
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 440 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4302
+  current now: 0
+  temperature: 326
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 443 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4302
+  current now: 0
+  temperature: 326
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 446 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4296
+  current now: 0
+  temperature: 327
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 450 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4296
+  current now: 0
+  temperature: 327
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 453 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4296
+  current now: 0
+  temperature: 327
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 457 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4285
+  current now: 0
+  temperature: 327
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 460 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4285
+  current now: 0
+  temperature: 327
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 464 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4285
+  current now: 0
+  temperature: 327
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 467 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4295
+  current now: 0
+  temperature: 327
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 471 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4295
+  current now: 0
+  temperature: 327
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 474 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4295
+  current now: 0
+  temperature: 327
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 477 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4313
+  current now: 0
+  temperature: 327
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 481 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4313
+  current now: 0
+  temperature: 327
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 484 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4313
+  current now: 0
+  temperature: 327
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 488 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4316
+  current now: 0
+  temperature: 328
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 491 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4316
+  current now: 0
+  temperature: 328
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 495 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4316
+  current now: 0
+  temperature: 328
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 498 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4321
+  current now: 0
+  temperature: 328
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 502 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4321
+  current now: 0
+  temperature: 328
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 506 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4321
+  current now: 0
+  temperature: 328
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 509 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4323
+  current now: 0
+  temperature: 328
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 513 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4323
+  current now: 0
+  temperature: 328
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 516 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4325
+  current now: 0
+  temperature: 328
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 519 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4325
+  current now: 0
+  temperature: 328
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 523 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4325
+  current now: 0
+  temperature: 328
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 527 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4323
+  current now: 0
+  temperature: 328
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 530 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4323
+  current now: 0
+  temperature: 328
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 534 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4323
+  current now: 0
+  temperature: 328
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 537 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4323
+  current now: 0
+  temperature: 328
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 540 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4323
+  current now: 0
+  temperature: 328
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 544 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4323
+  current now: 0
+  temperature: 328
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 547 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4320
+  current now: 0
+  temperature: 327
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 551 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4320
+  current now: 0
+  temperature: 327
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 554 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4320
+  current now: 0
+  temperature: 327
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 558 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4325
+  current now: 0
+  temperature: 327
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 561 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4325
+  current now: 0
+  temperature: 327
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 565 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4325
+  current now: 0
+  temperature: 327
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 568 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4323
+  current now: 0
+  temperature: 327
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 572 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4323
+  current now: 0
+  temperature: 327
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 575 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4323
+  current now: 0
+  temperature: 327
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 579 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4305
+  current now: 0
+  temperature: 327
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 582 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4305
+  current now: 0
+  temperature: 327
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 586 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4305
+  current now: 0
+  temperature: 327
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 589 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4325
+  current now: 0
+  temperature: 327
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 593 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4325
+  current now: 0
+  temperature: 327
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 596 sec
+
+---2015-10-15 22:10:21
+Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  status: 5
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 4325
+  current now: 0
+  temperature: 327
+  technology: Li-ion
+  LED Charging: false
+  LED Low Battery: false
+  Dormant Settings: false
+  Dormant Disable LED Settings: true
+  Dormant Always Settings: true
+SUPPORT_LOG_BATTERY_USAGE: false
+Time pass: 600 sec
+
