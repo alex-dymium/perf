@@ -10,7 +10,7 @@ from lib.utils import *
 
 def usb_and_power_on(delay, sensor):
     time.sleep(delay)
-    real_time("USB and Power ON")
+    real_time("USB and Power ON ")
     Connection().usb_on(sensor)
     time.sleep(5)
     Connection().power_on(sensor)
@@ -86,7 +86,7 @@ def run_1hour_video(ip, count):
     time.sleep(1)
     if video_duration == 0:
         print('%s Video duration is 0 on device %s' % (count, get_device_name(ip)))
-        get_screenshot(ip, '5555')
+        get_screenshot(ip)
     else:
         if video_duration <= config['duration']*60-360:
             for i in range((config['duration']*60-360) / video_duration):
@@ -138,7 +138,6 @@ def soak(ip, count):
     build = Connection().get_package_version(ip, port)
     device = get_device_name(ip)
     log_directory = Folders().folders_creation(build, device)
-    soak.log_directory=log_directory
     get_device_logs(ip, port, log_directory,  device, count)
     time.sleep(60)
     Connection().pull_log(log_directory, ip, port, device)
@@ -305,15 +304,18 @@ def download_apk():
     curl = 'curl -s -O ' + config['build_link'] + config['apk']
     os.system(curl)
     print 'APK V.%s DOWNLOADED' % curl[87:113]
-def get_screenshot(ip, port):
+def get_screenshot(ip):
     namescreen = '/sdcard/%s_%s.png' % (get_device_name(ip), time.strftime("%H:%M:%S"))
-    screen= 'screencap -p %s' % namescreen
-    Connection().shell_command(screen, ip, port)
-    ipp = ip + ':' + port
-    repdir='%s %s' % (namescreen, soak.log_directory)
-    Connection().adb_command('pull', ipp, repdir)
+    screendir= 'screencap -p %s' % namescreen
+    Connection().shell_command(screendir, ip, config['port'])
+    ipp = ip + ':' + config['port']
+    logdir = '../Report/%s' % get_device_name(ip)
+    fullpath=Folders().all_subdirs_of(logdir)[0][0]
+    cmd=['adb', '-s', ipp, 'pull', namescreen, fullpath]
+    subprocess.call(cmd)
     rmscreen = 'rm %s' % namescreen
-    Connection().shell_command(rmscreen, ip, port)
+    Connection().shell_command(rmscreen, ip, config['port'])
+
 
 with open('devices.json') as config:
     config = json.load(config)

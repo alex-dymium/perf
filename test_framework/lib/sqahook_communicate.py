@@ -45,7 +45,7 @@ class SQAHookConnection(object):
         except Exception, e:
             error = ['WEB SERVICE TIMED OUT Socket Connection Issue', self.ip]
             print 'WEB SERVICE TIMED OUT Connection Time Out Device:  ' + self.ip
-            get_screenshot(self.ip, '5555')
+            get_screenshot(self.ip)
             sys.exit(0)
         try:
             indexID = random.randint(0, 100)
@@ -56,7 +56,7 @@ class SQAHookConnection(object):
         except Exception, e:
             error = ['WEB SERVICE TIMED OUT Socket Connection Issue', self.ip]
             print 'WEB SERVICE CONNECTION FAILED ' + e.message
-            get_screenshot(self.ip, '5555')
+            get_screenshot(self.ip)
             sys.exit(0)
         try:
             ws.close()
