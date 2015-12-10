@@ -20,7 +20,6 @@ class Config:
         self.devices = self.pars_json['devices']
         self.apk = self.pars_json['apk']
         self.startapp = self.pars_json['startapp']
-        self.downloadLink = self.pars_json['downloadLink']
         self.events_dir_name = self.pars_json['events_dir_name']
         self.events_list = self.pars_json['events_list']
 

@@ -114,11 +114,11 @@ def total_devices_config(hub):
     return n
 def kill_app(ip, count):
     print '%s kill app on %s' % (count, get_device_name(ip))
-    Connection().shell_command('am force-stop com.verizonmedia.go90.enterprise', ip, '5555')
+    Connection().shell_command('am force-stop com.verizonmedia.go90.enterprise', ip, config['port'])
     time.sleep(2)
 def start_app(ip, count):
     # print '%s start app on %s' % (count, get_device_name(ip))
-    Connection().shell_command(Config().startapp, ip, '5555')
+    Connection().shell_command(Config().startapp, ip, config['port'])
     time.sleep(10)
 def real_time(note):
     start = time.time()
