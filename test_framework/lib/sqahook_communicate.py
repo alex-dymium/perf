@@ -1,8 +1,8 @@
 import re as regx
 import random
 import websocket
-from lib.connection import *
-from test_framework.soak import *
+from connection import *
+from soak import *
 
 class SQAHookConnection(object):
     def __init__(self, p_ip):
