@@ -104,9 +104,7 @@ class Graphs:
 
     def last_report(self):
         device_dir = self.log_directory
-        # print(device_dir)
         self.folder = Folders().last_sub_dirs(device_dir)
-        # print self.folder
         self.devicename = []
         self.build = []
         memory = []
