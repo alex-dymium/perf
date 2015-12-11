@@ -31,18 +31,38 @@ class Graphs:
             value2=values[1] if len(values) >= 2 else ['-', '-', '-'],
             value3=values[2] if len(values) >= 3 else ['-', '-', '-'],
             value4=values[3] if len(values) >= 4 else ['-', '-', '-'],
-            value5=values[4] if len(values) == 5 else ['-', '-', '-'],
+            value5=values[4] if len(values) >= 5 else ['-', '-', '-'],
+            value6=values[5] if len(values) >= 6 else ['-', '-', '-'],
+            value7=values[6] if len(values) >= 7 else ['-', '-', '-'],
+            value8=values[7] if len(values) >= 8 else ['-', '-', '-'],
+            value9=values[8] if len(values) >= 9 else ['-', '-', '-'],
+            value10=values[9] if len(values) >= 10 else ['-', '-', '-'],
+            value11=values[10] if len(values) >= 11 else ['-', '-', '-'],
+            value12=values[11] if len(values) >= 12 else ['-', '-', '-'],
+            value13=values[12] if len(values) >= 13 else ['-', '-', '-'],
+            value14=values[13] if len(values) >= 14 else ['-', '-', '-'],
+            value15=values[14] if len(values) == 15 else ['-', '-', '-'],
         )
         source = ColumnDataSource(data_tab)
         columns = [
             TableColumn(field="data", title=name),
             TableColumn(field="value1", title="Build: %s" % builds[0]),
             TableColumn(field="value2", title="Build: %s" % builds[1] if len(builds) >= 2 else 'No build'),
-            TableColumn(field="value3", title="Build: %s" % builds[1] if len(builds) >= 3 else 'No build'),
-            TableColumn(field="value4", title="Build: %s" % builds[1] if len(builds) >= 4 else 'No build'),
-            TableColumn(field="value5", title="Build: %s" % builds[1] if len(builds) == 5 else 'No build'),
+            TableColumn(field="value3", title="Build: %s" % builds[2] if len(builds) >= 3 else 'No build'),
+            TableColumn(field="value4", title="Build: %s" % builds[3] if len(builds) >= 4 else 'No build'),
+            TableColumn(field="value5", title="Build: %s" % builds[4] if len(builds) >= 5 else 'No build'),
+            TableColumn(field="value6", title="Build: %s" % builds[5] if len(builds) >= 6 else 'No build'),
+            TableColumn(field="value7", title="Build: %s" % builds[6] if len(builds) >= 7 else 'No build'),
+            TableColumn(field="value8", title="Build: %s" % builds[7] if len(builds) >= 8 else 'No build'),
+            TableColumn(field="value9", title="Build: %s" % builds[8] if len(builds) >= 9 else 'No build'),
+            TableColumn(field="value10", title="Build: %s" % builds[9] if len(builds) >= 10 else 'No build'),
+            TableColumn(field="value11", title="Build: %s" % builds[10] if len(builds) >= 11 else 'No build'),
+            TableColumn(field="value12", title="Build: %s" % builds[11] if len(builds) >= 12 else 'No build'),
+            TableColumn(field="value13", title="Build: %s" % builds[12] if len(builds) >= 13 else 'No build'),
+            TableColumn(field="value14", title="Build: %s" % builds[13] if len(builds) >= 14 else 'No build'),
+            TableColumn(field="value15", title="Build: %s" % builds[14] if len(builds) >= 15 else 'No build'),
         ]
-        data_table = DataTable(source=source, columns=columns, width=650, height=175)
+        data_table = DataTable(source=source, columns=columns, width=1250, height=175)
         return data_table
 
     def graph(self, data, name, devicename, build, legend=None, color=None):
@@ -84,7 +104,9 @@ class Graphs:
 
     def last_report(self):
         device_dir = self.log_directory
-        self.folder = Folders().all_subdirs_of(device_dir)
+        # print(device_dir)
+        self.folder = Folders().last_sub_dirs(device_dir)
+        # print self.folder
         self.devicename = []
         self.build = []
         memory = []
@@ -93,12 +115,13 @@ class Graphs:
         bat_temp = []
         data_usage = []
         events = []
-        if len(self.folder) < 5:
+        if len(self.folder) < 15:
             rng = len(self.folder)
         else:
-            rng = 5
+            rng = 15
         for i in range(0, rng):
-            report_filename = self.folder[i][0] + "/" + Config().reportFilename
+            report_filename = self.folder[i] + "/" + Config().reportFilename
+            # print(report_filename)
             try:
                 with open(report_filename, 'rb') as f:
                     obj = pickle.load(f)
@@ -113,7 +136,7 @@ class Graphs:
                     events.append(obj[7])
             except IOError:
                 print('cannot open %s' % Config().reportFilename)
-        name_freemem = 'Free Memory (kB)'
+        name_freemem = 'Free Mem (Mb)'
         freemem_table = self.table(memory, name_freemem, self.build)
         freemem_graph = self.graph(memory, name_freemem, self.devicename, self.build)
 
@@ -140,7 +163,7 @@ class Graphs:
     def start(self):
         freemem_graph, freemem_table, cpu_graph, cpu_table, bat_graph, bat_table, temp_graph, temp_table, data_graph, events_table = self.last_report()
         graph = vplot(events_table, freemem_graph, freemem_table, cpu_graph, cpu_table, bat_graph, bat_table, temp_graph, temp_table, data_graph)
-        s = self.folder[0][0] + '/' + 'report_%s.html' % self.build[0].replace('.', '_')
+        s = self.folder[0] + '/' + 'report_%s.html' % self.build[0].replace('.', '_')
         output_file(s, title=self.build[0] + '-' + self.devicename[0] + 'Report')
         return show(graph)
 

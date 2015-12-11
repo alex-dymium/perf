@@ -1,5 +1,7 @@
 import os, datetime, json
 
+import time
+
 
 class Config:
     def __init__(self):
@@ -76,3 +78,19 @@ class Folders:
                 result.append([bd, os.path.getctime(bd)])
         result = sorted(result, key=lambda st: st[1], reverse=True)
         return result
+
+    def last_sub_dirs(self, report_folder): # ../Report/Samsung_S4
+        result = []
+        all_folder =[]
+        for d in os.listdir(report_folder):
+            bd = os.path.join(report_folder, d) # ../Report/Samsung_S5/93340_2015-10-15_22-51
+            bd, br = bd.split('/')[0:3], bd.split('/')[3] # [u'..', u'Report', u'Samsung_S6_Edge']
+            bc = []
+            result.append(br)
+            for i in result:
+                bc.append([bd[0] + '/' + bd[1] + '/' + bd[2] + '/' + i,time.strptime(i[6:],"%Y-%m-%d_%H-%M")])
+        result = sorted(bc, key=lambda st: st[1], reverse=True)
+        for i in result:
+            all_folder.append(i[0])
+
+        return all_folder
