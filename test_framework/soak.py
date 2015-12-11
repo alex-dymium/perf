@@ -47,6 +47,7 @@ def run_cut(ip, user_name, password):
     ca.run(cmd="System.GetStorageValue", prm={"key":"file/GovernorEnvironment"})
     ca.run(cmd="System.GetStorageValue", prm={"key":"file/isTestUser"})
     ca.run(cmd="System.Restart")
+    time.sleep(2)
     ca.run(cmd='Command.Touch', prm={'id': 'LoginButton'})
     time.sleep(2)
     ca.run(cmd='Command.Type', prm={'id': 'EmailTextField', 'text': user_name})
@@ -58,7 +59,9 @@ def run_cut(ip, user_name, password):
     ca.run(cmd='Command.Touch', prm={'id': 'ModalCancelButton'})  # Skip Pop-up
     time.sleep(5)
     # raw_input('Tab profile button')
-    ca.run(cmd='Command.Touch', prm={'id': 'Tab3Button'})
+    ca.run(cmd='Command.Touch', prm={'id': 'Tab3Button'})# old UI
+    time.sleep(1)
+    ca.run(cmd="CurrentPage.SwitchMainTabs", prm={"index": 2})
     time.sleep(2)
     ca.run(cmd='Command.Touch', prm={'id': 'ProfileNavButton'}) # old UI
     time.sleep(2)
@@ -73,7 +76,9 @@ def run_1hour_video(ip, count):
     # print "%s Starting 1 hour video on device %s" % (count, get_device_name(ip))
     ca = SQAHookConnection(ip)
     time.sleep(2)
-    ca.run(cmd='Command.Touch', prm={'id': 'Tab3Button'})
+    ca.run(cmd='Command.Touch', prm={'id': 'Tab3Button'}) #o;d UI
+    time.sleep(1)
+    ca.run(cmd="CurrentPage.SwitchMainTabs", prm={"index": 2})
     time.sleep(5)
     ca.run(cmd='Command.Touch', prm={'id': 'Grid', 'index': 0})
     time.sleep(10)

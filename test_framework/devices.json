@@ -1,6 +1,6 @@
 {"duration": 60,
   "env": "prod-d",
-  "build_link": "http://img-dist-base03.oncue.verizon.net/download/Engineering_build/android_1.2_rc2.91154/release_test/",
+  "build_link": "http://img-dist-base03.oncue.verizon.net/download/Engineering_build/android_1.3.91343/release_test/",
   "hub1_username": "alex.como82@gmail.com",
   "hub1_password": "Aa123456",
   "hub1": [
@@ -36,6 +36,11 @@
     {"device": "Motorolla_Droid_Turbo_Black", "ip": "192.168.74.143", "id": "NBVV3L0106"},
     {"device": "Samsung_Tab4", "ip": "192.168.74.107", "id": "300421ea0d2e3100"},
     {"device": "Samsung_Galaxy_Tab4", "ip": "192.168.74.127", "id": "8bebef62"}
+  ],
+  "test_username":"katiarusu1710@gmail.com",
+  "test_password": "Aa123456",
+  "test": [
+    {"device": "LG_Nexus_5", "ip": "68.140.242.179", "id": "077813f50189a0bd"}
   ],
   "devices": [
     {"device": "LG_G4", "ip": "192.168.75.108", "id": "VS986e2761eb2"},
