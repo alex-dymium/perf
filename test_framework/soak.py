@@ -71,7 +71,7 @@ def run_cut(ip, user_name, password):
     time.sleep(3)
     ca.run(cmd='Command.Touch', prm={'id': 'PlayButton'})
     ca.run(cmd='Command.Touch', prm={'id': 'MsgScreenReplay'})  #Replay
-    # time.sleep(5)
+
 def run_1hour_video(ip, count):
     # print "%s Starting 1 hour video on device %s" % (count, get_device_name(ip))
     ca = SQAHookConnection(ip)
