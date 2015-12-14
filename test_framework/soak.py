@@ -50,27 +50,27 @@ def run_cut(ip, user_name, password):
     time.sleep(2)
     ca.run(cmd='Command.Touch', prm={'id': 'LoginButton'})
     time.sleep(2)
-    # ca.run(cmd='Command.Type', prm={'id': 'EmailTextField', 'text': user_name})
-    # time.sleep(1)
-    # ca.run(cmd='Command.Type', prm={'id': 'PasswordTextField', 'text': password})
-    # time.sleep(1)
-    # ca.run(cmd='Command.Touch', prm={'id': 'SignInButton'})
-    # time.sleep(5)
-    # ca.run(cmd='Command.Touch', prm={'id': 'ModalCancelButton'})  # Skip Pop-up
-    # time.sleep(5)
-    # # raw_input('Tab profile button')
-    # ca.run(cmd='Command.Touch', prm={'id': 'Tab3Button'})# old UI
-    # time.sleep(1)
-    # ca.run(cmd="CurrentPage.SwitchMainTabs", prm={"index": 2})
-    # time.sleep(2)
-    # ca.run(cmd='Command.Touch', prm={'id': 'ProfileNavButton'}) # old UI
-    # time.sleep(2)
-    # ca.run(cmd='Command.Touch', prm={'id': 'ProfileTabs', 'index': 1})
-    # time.sleep(1)
-    # ca.run(cmd='Command.Touch', prm={'id': 'ProfileMomentsGrid', 'index': 0})
-    # time.sleep(3)
-    # ca.run(cmd='Command.Touch', prm={'id': 'PlayButton'})
-    # ca.run(cmd='Command.Touch', prm={'id': 'MsgScreenReplay'})  #Replay
+    ca.run(cmd='Command.Type', prm={'id': 'EmailTextField', 'text': user_name})
+    time.sleep(1)
+    ca.run(cmd='Command.Type', prm={'id': 'PasswordTextField', 'text': password})
+    time.sleep(1)
+    ca.run(cmd='Command.Touch', prm={'id': 'SignInButton'})
+    time.sleep(5)
+    ca.run(cmd='Command.Touch', prm={'id': 'ModalCancelButton'})  # Skip Pop-up
+    time.sleep(5)
+    # raw_input('Tab profile button')
+    ca.run(cmd='Command.Touch', prm={'id': 'Tab3Button'})# old UI
+    time.sleep(1)
+    ca.run(cmd="CurrentPage.SwitchMainTabs", prm={"index": 2})
+    time.sleep(2)
+    ca.run(cmd='Command.Touch', prm={'id': 'ProfileNavButton'}) # old UI
+    time.sleep(2)
+    ca.run(cmd='Command.Touch', prm={'id': 'ProfileTabs', 'index': 1})
+    time.sleep(1)
+    ca.run(cmd='Command.Touch', prm={'id': 'ProfileMomentsGrid', 'index': 0})
+    time.sleep(3)
+    ca.run(cmd='Command.Touch', prm={'id': 'PlayButton'})
+    ca.run(cmd='Command.Touch', prm={'id': 'MsgScreenReplay'})  #Replay
     # time.sleep(5)
 def run_1hour_video(ip, count):
     # print "%s Starting 1 hour video on device %s" % (count, get_device_name(ip))
