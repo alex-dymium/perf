@@ -15,9 +15,9 @@ def run(ip):
     # print ca.run(cmd="System.GetStorageValue", prm={"key":"file/GovernorEnvironment"})
     # print ca.run(cmd="System.GetStorageValue", prm={"key":"file/isTestUser"})
     # ca.run(cmd="System.Restart")
-    # ca.run(cmd='Command.Touch', prm={'id': 'MsgScreenReplay'})
-    ca.run(cmd="CurrentPage.SwitchMainTabs", prm={"index": 2})
-    ca.run(cmd='Command.Touch', prm={'id': 'ProfileTabs', 'index': 1})
+    ca.run(cmd='Command.Touch', prm={'id': 'MsgScreenReplay'})
+    # ca.run(cmd="CurrentPage.SwitchMainTabs", prm={"index": 2})
+    # ca.run(cmd='Command.Touch', prm={'id': 'ProfileTabs', 'index': 1})
 
 
 
@@ -68,9 +68,9 @@ def test_case_test():
     all_devices_ip(target=run_1hour_video)
 
 if __name__ == "__main__":
-    run("68.140.242.179")
+    # run("68.140.242.179")
     # test_case_test()
     # non_stop()
     # all_devices_ip(run_cut)
     # finish(0)
-    # all_devices_ip(delit_last_report)
+    all_devices_ip(delit_last_report)
