@@ -2,7 +2,7 @@ import re as regx
 import random
 import websocket
 from connection import *
-from soak import *
+from test_framework.soak import *
 
 class SQAHookConnection(object):
     def __init__(self, p_ip):
