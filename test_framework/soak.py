@@ -56,6 +56,7 @@ def run_cut(ip, user_name, password):
     time.sleep(1)
     ca.run(cmd='Command.Touch', prm={'id': 'SignInButton'})
     time.sleep(5)
+    Connection().shell_command('input tap 1100 1400', '68.140.241.240:5555')
     ca.run(cmd='Command.Touch', prm={'id': 'ModalCancelButton'})  # Skip Pop-up
     time.sleep(5)
     # raw_input('Tab profile button')

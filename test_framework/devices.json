@@ -1,6 +1,6 @@
 {"duration": 60,
   "env": "prod-d",
-  "build_link": "http://img-dist-base03.oncue.verizon.net/download/Engineering_build/android_1.3.91343/release_test/",
+  "build_link": "http://img-dist-base03.oncue.verizon.net/download/Nightly_build/android_arm.91500/release_test/",
   "hub1_username": "alex.como82@gmail.com",
   "hub1_password": "Aa123456",
   "hub1": [
@@ -35,12 +35,13 @@
     {"device": "Samsung_Tab4", "ip": "192.168.74.107", "id": "300421ea0d2e3100"},
     {"device": "Samsung_Galaxy_Tab4", "ip": "192.168.74.127", "id": "8bebef62"}
   ],
-  "test_username":"katiarusu1710@gmail.com",
+  "test_username":"alex.como82@gmail.com",
   "test_password": "Aa123456",
   "test": [
-    {"device": "LG_Nexus_5", "ip": "68.140.242.179", "id": "077813f50189a0bd"}
+    {"device": "LG_G4_6", "ip": "68.140.241.240", "id": "VS986a476c972"}
   ],
   "devices": [
+    {"device": "LG_G4_6", "ip": "68.140.241.240", "id": "VS986a476c972"},
     {"device": "LG_G4", "ip": "192.168.75.108", "id": "VS986e2761eb2"},
     {"device": "LG_G4_6", "ip": "192.168.75.127", "id": "VS986a476c972"},
     {"device": "Samsung_S4", "ip": "192.168.24.105", "id": "d547c23f"},
