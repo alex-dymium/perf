@@ -12,6 +12,7 @@ def run(ip):
 
 
 if __name__ == "__main__":
+    create_report(0,'hub2')
     # all_devices_ip(run)
     # finish(0)
-    all_devices_ip(delit_last_report)
+    # all_devices_ip(delit_last_report)

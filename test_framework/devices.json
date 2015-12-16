@@ -1,6 +1,6 @@
 {"duration": 60,
   "env": "prod-d",
-  "build_link": "http://img-dist-base03.oncue.verizon.net/download/Nightly_build/android_arm.91500/release_test/",
+  "build_link": "http://img-dist-base03.oncue.verizon.net/download/Engineering_build/android_arm.91575/release_test/",
   "hub1_username": "alex.como82@gmail.com",
   "hub1_password": "Aa123456",
   "hub1": [
