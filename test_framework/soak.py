@@ -89,23 +89,23 @@ def run_1hour_video(ip, count):
     time.sleep(50)
     ca.run(cmd='Command.Touch', prm={'id': 'MsgScreenReplay'})
     time.sleep(6)
-    # video_duration = json.loads(ca.run(cmd='System.GetTransportInfoFromPlayer'))['result']['endTime']
-    # time.sleep(1)
-    # if video_duration == 0:
-    #     print('%s Video duration is 0 on device %s' % (count, get_device_name(ip)))
-    #     get_screenshot(ip)
-    # else:
-    #     if video_duration <= config['duration']*60-360:
-    #         for i in range((config['duration']*60-360) / video_duration):
-    #             # print ('wait %s for end video on %s' % (video_duration, get_device_name(ip)))
-    #             time.sleep(video_duration-100)
-    #             # while 'MsgScreenReplay' not in json.loads(ca.run(cmd='CurrentPage.MobileGetIds'))['result']:
-    #             for i in range(20):
-    #                 time.sleep(2)
-    #                 # print ('while  %s' % get_device_name(ip))
-    #             # print ('Click on rewach %s' % get_device_name(ip))
-    #                 ca.run(cmd='Command.Touch', prm={'id': 'MsgScreenReplay'})
-    #     # print('%s Video long enough on device %s' % (count, get_device_name(ip)))
+    video_duration = json.loads(ca.run(cmd='System.GetTransportInfoFromPlayer'))['result']['endTime']
+    time.sleep(1)
+    if video_duration == 0:
+        print('%s Video duration is 0 on device %s' % (count, get_device_name(ip)))
+        get_screenshot(ip)
+    else:
+        if video_duration <= config['duration']*60-360:
+            for i in range((config['duration']*60-360) / video_duration):
+                # print ('wait %s for end video on %s' % (video_duration, get_device_name(ip)))
+                time.sleep(video_duration-100)
+                # while 'MsgScreenReplay' not in json.loads(ca.run(cmd='CurrentPage.MobileGetIds'))['result']:
+                for i in range(20):
+                    time.sleep(2)
+                    # print ('while  %s' % get_device_name(ip))
+                # print ('Click on rewach %s' % get_device_name(ip))
+                    ca.run(cmd='Command.Touch', prm={'id': 'MsgScreenReplay'})
+        # print('%s Video long enough on device %s' % (count, get_device_name(ip)))
 def get_device_name(id_or_ip):
     devices = {key: value for key, value in config.items() if key == 'devices'}
     if id_or_ip.find('.') != -1:
