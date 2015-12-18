@@ -1,0 +1,60 @@
+---2015-12-17 17:00:07
+
+
+
+User 1%, System 1%, IOW 0%, IRQ 0%
+User 29 + Nice 6 + Sys 31 + Idle 2429 + IOW 0 + IRQ 0 + SIRQ 1 = 2496
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 1085  5   0% S   115 1372880K 109840K  fg system   system_server
+ 8539  0   0% R     1  10640K   1052K unk shell    top
+ 2957  4   0% S    50 1362748K  86484K  fg u0_a30   com.google.android.gms.persistent
+ 1693  5   0% S    35 1293136K  93884K  fg u0_a66   com.android.systemui
+  343  5   0% S    17 124532K  12564K  fg system   /system/bin/surfaceflinger
+ 8099  7   0% S    76 1347144K  86788K  bg u0_a86   com.amazon.mShop.android
+  476  5   0% S     1   9916K    796K unk nobody   /system/bin/msm_irqbalance
+   42  1   0% D     1      0K      0K     root     kworker/u17:0
+  338  6   0% S     5  15348K   2024K unk logd     /system/bin/logd
+    8  5   0% S     1      0K      0K unk root     rcu_preempt
+Time pass: 3 sec
+
+---2015-12-17 17:00:07
+
+
+
+User 0%, System 0%, IOW 0%, IRQ 0%
+User 5 + Nice 0 + Sys 23 + Idle 2452 + IOW 0 + IRQ 0 + SIRQ 0 = 2480
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 8562  0   0% R     1  10640K   1052K unk shell    top
+ 1085  5   0% S   115 1372932K 110160K  fg system   system_server
+ 1693  5   0% S    35 1293136K  93884K  fg u0_a66   com.android.systemui
+  343  4   0% S    17 124532K  12564K  fg system   /system/bin/surfaceflinger
+  167  4   0% S     1      0K      0K unk root     cfinteractive
+ 5614  5   0% S    22 1225816K  53780K  fg u0_a46   com.motorola.motocare
+  205  0   0% S     1      0K      0K     root     kworker/u16:4
+  206  4   0% S     1      0K      0K     root     kworker/u16:5
+    1  4   0% S     1   9060K    648K unk root     /init
+ 1814  5   0% S     3  16364K   3288K unk wifi     /system/bin/wpa_supplicant
+Time pass: 7 sec
+
+---2015-12-17 17:00:07
+
+
+
+User 0%, System 0%, IOW 0%, IRQ 0%
+User 9 + Nice 0 + Sys 21 + Idle 2446 + IOW 0 + IRQ 0 + SIRQ 1 = 2477
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 8575  0   0% R     1  10640K   1052K unk shell    top
+ 7264  5   0% S    31 1448552K  67268K  bg u0_a30   com.google.android.gms
+ 1085  6   0% S   115 1372984K 110160K  fg system   system_server
+ 1693  5   0% S    35 1293136K  94144K  fg u0_a66   com.android.systemui
+  167  4   0% S     1      0K      0K unk root     cfinteractive
+  343  6   0% S    17 124532K  12564K  fg system   /system/bin/surfaceflinger
+  464  5   0% S     3  13684K    924K unk radio    /system/bin/qmuxd
+ 1814  5   0% S     3  16364K   3288K unk wifi     /system/bin/wpa_supplicant
+  208  4   0% S     1      0K      0K     root     kworker/u16:7
+  442  4   0% S     2  14128K   1324K unk system   /system/bin/cnd
+Time pass: 12 sec
+
