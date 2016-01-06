@@ -78,7 +78,7 @@ def run_1hour_video(ip, count):
     ca = SQAHookConnection(ip)
     time.sleep(2)
     # ca.run(cmd='Command.Touch', prm={'id': 'Tab3Button'}) #old UI
-    # time.sleep(1)
+    time.sleep(1)
     ca.run(cmd="CurrentPage.SwitchMainTabs", prm={"index": 2})
     time.sleep(5)
     ca.run(cmd='Command.Touch', prm={'id': 'Grid', 'index': 0})
