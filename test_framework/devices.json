@@ -38,7 +38,7 @@
   "test_username":"alex.como82@gmail.com",
   "test_password": "Aa123456",
   "test": [
-    {"device": "LG_G4_6", "ip": "68.140.241.240", "id": "VS986a476c972"}
+    {"device": "SSamsung_S6_Edge", "ip": "192.168.1.11", "id": "05157df55d5cab12"}
   ],
   "devices": [
     {"device": "LG_G4_6", "ip": "68.140.241.240", "id": "VS986a476c972"},
